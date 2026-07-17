@@ -1777,5 +1777,1124 @@ window.QUESTIONS = [
     story: "You learn a new word or name — and suddenly it's everywhere. This **frequency illusion** is nicknamed the Baader-Meinhof phenomenon, after someone who coincidentally heard that obscure name twice in a day. Nothing in the world has changed; your brain, having just tagged the thing as notable, now notices and remembers each appearance — selective attention and confirmation bias working together."
   },
 
+  /* ===================== INDIAN HISTORY ===================== */
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The towering Brihadeeswarar 'Big Temple' at Thanjavur, built around 1010 CE, was commissioned by which Chola emperor?",
+    options: ["Rajaraja Chola I", "Krishnadevaraya", "Ashoka", "Narasimhavarman"],
+    answer: 0,
+    story: "**Rajaraja Chola I** raised this granite masterpiece in Tamil Nadu in roughly five years. Its 66-metre vimana was among the tallest of its age, and its crowning stone reportedly weighs some 80 tons — yet there's no granite quarry for miles, so every block was hauled in. A thousand years on it still stands, a UNESCO 'Great Living Chola Temple' and an active place of worship."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "Which medieval Tamil dynasty built a navy powerful enough to raid the Srivijaya empire across the Bay of Bengal (in today's Indonesia and Malaysia)?",
+    options: ["The Cholas", "The Pallavas", "The Mughals", "The Guptas"],
+    answer: 0,
+    story: "Around 1025 CE **Rajendra Chola I** sent a fleet across the sea to strike Srivijaya — a rare case of pre-modern Indian power projected overseas. He also marched north all the way to the Ganges, taking the title 'Gangaikonda' (he who brought the Ganges) and building a new capital, Gangaikonda Cholapuram. Chola trade links reached as far as China."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The exquisite Chola bronzes — like the dancing Shiva (Nataraja) — were cast using which technique?",
+    options: [
+      "Lost-wax casting (the mould is destroyed to free each piece)",
+      "Iron forging",
+      "Stone carving",
+      "Gold electroplating"
+    ],
+    answer: 0,
+    story: "Each Chola bronze was made by **lost-wax casting**: a wax model is coated in clay, the wax melted out, molten bronze poured in, and the mould broken — so every statue is unique. The Nataraja, Shiva dancing the universe into being within a ring of fire, is so iconic that CERN, the particle-physics lab, keeps a giant statue of it as a symbol of the cosmic dance of matter."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "In 2004, Tamil became the first language officially declared a 'Classical Language' of India, recognised for...",
+    options: [
+      "A continuous literary tradition spanning over two thousand years",
+      "Having the world's oldest alphabet",
+      "Being India's most spoken language",
+      "Being the language of the royal court"
+    ],
+    answer: 0,
+    story: "Tamil's literature stretches back more than two millennia, to the **Sangam** poems (~300 BCE–300 CE) and the grammar Tolkappiyam. What makes it remarkable is that, unlike Latin or classical Sanskrit, it's still spoken every day — by some 80 million people — making it one of the world's longest-surviving *living* classical languages."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "Sangam literature, the oldest body of Tamil writing, is named after legendary academies of poets traditionally based in which city?",
+    options: ["Madurai", "Chennai", "Delhi", "Kanchipuram"],
+    answer: 0,
+    story: "The 'Sangams' were assemblies of poets said to have gathered under Pandya kings at **Madurai**. They left behind thousands of astonishingly humane poems, sorted into 'akam' (love, the inner world) and 'puram' (war, the public world) — vivid, secular verse about longing, battle and everyday life, written when much of the world was barely putting pen to leaf."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The shore temple and giant rock-cut monuments at Mahabalipuram (Mamallapuram) were created by which dynasty?",
+    options: ["The Pallavas", "The Cholas", "The Cheras", "The British"],
+    answer: 0,
+    story: "The **Pallavas** carved them in the 7th–8th centuries under Narasimhavarman I 'Mamalla.' The Pancha Rathas are each cut from a single boulder, and 'Arjuna's Penance' is one of the largest open-air rock reliefs on Earth. When the 2004 tsunami briefly pulled back the sea, it revealed more submerged structures — hints of the 'Seven Pagodas' of local legend."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "In the Tamil epic Silappatikaram, the wronged heroine Kannagi takes revenge on the city of Madurai by...",
+    options: [
+      "Burning it down after her husband is wrongly executed",
+      "Raising an army against its king",
+      "Flooding it with the sea",
+      "Turning its people to stone"
+    ],
+    answer: 0,
+    story: "Her husband Kovalan is falsely accused of stealing a queen's anklet and executed. Kannagi storms the court and **shatters her own anklet** — revealing rubies inside, where the queen's held pearls, proving his innocence. In grief and fury she curses Madurai, which bursts into flames. She's revered as a goddess of chastity; her statue stands on Chennai's Marina Beach."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "Madurai's Meenakshi Amman Temple is world-famous for its...",
+    options: [
+      "Towering gateway towers covered in thousands of colourful sculptures",
+      "Single solid-gold dome",
+      "Underground river",
+      "Giant reclining Buddha"
+    ],
+    answer: 0,
+    story: "Its 14 **gopurams** (gateway towers) blaze with an estimated 33,000 brightly painted figures of gods, demons and beasts. Largely rebuilt under the Nayak rulers in the 16th–17th centuries, the complex also holds a 'thousand-pillar' hall and stone pillars that ring with musical notes when struck. It remains one of the most visited temples in India."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "Recent excavations at Keeladi, near Madurai, have uncovered evidence of...",
+    options: [
+      "An ancient urban Tamil civilisation on the Vaigai river",
+      "A buried Roman fort",
+      "A lost diamond mine",
+      "Dinosaur fossils"
+    ],
+    answer: 0,
+    story: "Digs at **Keeladi** have revealed brick buildings, drainage, fine pottery and — crucially — many potsherds scratched with Tamil-Brahmi letters, hinting at widespread literacy. The finds point to a sophisticated Sangam-age settlement, and some samples dated to around the 6th century BCE have fuelled a lively debate that Tamil urban culture is far older than once assumed."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "Hoards of ancient Roman gold coins keep turning up in Tamil Nadu because...",
+    options: [
+      "Rome traded heavily for South Indian pepper, spices and gems",
+      "The Romans once ruled the region",
+      "They are modern forgeries",
+      "A Roman fleet was shipwrecked there"
+    ],
+    answer: 0,
+    story: "Two thousand years ago, Tamil ports like **Arikamedu** hummed with trade. Rome craved South Indian pepper so badly that the writer Pliny the Elder grumbled that India was draining the empire of its gold. Sangam poems even describe 'Yavana' (Greek/Roman) merchants arriving with wine — an ancient globalisation, paid for in Roman coin."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "The rock edicts of Emperor Ashoka (3rd century BCE) mention the Cholas and Pandyas of the far south as...",
+    options: [
+      "Independent kingdoms lying beyond his empire",
+      "Provinces he directly governed",
+      "Mythical lands",
+      "Enemies he had destroyed"
+    ],
+    answer: 0,
+    story: "Ashoka ruled most of the subcontinent — but not the deep south. His edicts name the **Cholas, Pandyas, Cheras and others as neighbours** reached by his welfare works, not subjects. These are among the earliest firmly datable references to the Tamil dynasties, confirming they were already well established while the Mauryas ruled the north."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "E.V. Ramasamy, revered across Tamil Nadu as 'Periyar,' is best known for founding...",
+    options: [
+      "The Self-Respect Movement for social equality and rationalism",
+      "The first Tamil newspaper",
+      "A dynasty of temple builders",
+      "India's first cricket league"
+    ],
+    answer: 0,
+    story: "**Periyar** ('the great one') campaigned fiercely against caste discrimination and religious orthodoxy, and for the dignity of the oppressed and the rights of women. His Self-Respect Movement powered the wider Dravidian movement that reshaped Tamil Nadu's politics and culture — its influence still visible in the state's parties and public life today."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "Madras State was renamed 'Tamil Nadu' in 1969, after years of agitation sparked partly by...",
+    options: [
+      "The attempt to impose Hindi as the sole national language",
+      "A dispute over the capital city",
+      "A new currency",
+      "A boundary war"
+    ],
+    answer: 0,
+    story: "Fierce **anti-Hindi agitations**, especially in 1965 when Hindi was set to become the only official language, swept Tamil Nadu — including protests and self-immolations. They helped keep English as a link language and propelled the Dravidian parties to power. In 1969 the state took the name Tamil Nadu, 'the Tamil country.'"
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "India's national emblem — the four-lion capital — is adapted from a pillar erected by which ancient emperor?",
+    options: ["Ashoka", "Akbar", "Shah Jahan", "Chandragupta II"],
+    answer: 0,
+    story: "After the horrific bloodshed of the Kalinga war (~261 BCE), Emperor **Ashoka** renounced violence, embraced Buddhism, and inscribed messages of tolerance on pillars across his realm. The Lion Capital from Sarnath became independent India's state emblem, and the wheel on it — the Ashoka Chakra — sits at the centre of the national flag."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The modern game of chess evolved from an ancient Indian game called...",
+    options: ["Chaturanga", "Pachisi", "Senet", "Carrom"],
+    answer: 0,
+    story: "**Chaturanga** ('four divisions') appeared in Gupta-era India around the 6th century, its pieces modelling an army: infantry, cavalry, elephants and chariots — our pawn, knight, bishop and rook. It spread to Persia as 'shatranj'; the phrase 'checkmate' comes from the Persian 'shah mat,' loosely 'the king is helpless.'"
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The board game Snakes and Ladders began in India as...",
+    options: [
+      "A game teaching morality — virtues lift you up, vices drag you down",
+      "A gambling game for merchants",
+      "A military training exercise",
+      "A royal counting toy"
+    ],
+    answer: 0,
+    story: "Known as Moksha Patam, it was a teaching tool: **ladders were virtues** carrying you toward liberation (moksha), **snakes were vices** dropping you back down. It encoded Hindu and Jain ethics into a roll of the dice. British colonials carried it home, quietly stripped out the morality, and it became the children's game — 'Chutes and Ladders' in America."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "The ancient Indian physician Sushruta (~600 BCE) is often called the 'father of surgery' for describing...",
+    options: [
+      "Reconstructive surgery, including rebuilding a nose",
+      "The circulation of blood",
+      "General anaesthesia gas",
+      "The germ theory of disease"
+    ],
+    answer: 0,
+    story: "The Sushruta Samhita catalogues hundreds of operations and instruments — including **rhinoplasty**, rebuilding a severed nose with a flap of the patient's own forehead skin. Centuries later, British surgeons who saw the technique still in use in India adapted it, and versions of Sushruta's 'Indian flap' are taught in plastic surgery to this day."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "Nalanda, one of the world's earliest great universities, drew thousands of scholars from across Asia. It stood in present-day...",
+    options: ["Bihar", "Tamil Nadu", "Punjab", "Gujarat"],
+    answer: 0,
+    story: "Founded around the 5th century in **Bihar**, Nalanda was a vast residential Buddhist university with students from China, Korea and beyond and a multi-storey library so enormous that, when invaders sacked it around 1193, the collection is said to have burned for months. A modern Nalanda University has since been revived nearby."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "The 1757 Battle of Plassey, which let a trading company begin ruling much of India, was won by the British mainly through...",
+    options: [
+      "Bribery and betrayal — a key commander switched sides",
+      "Overwhelming numbers",
+      "Superior naval firepower",
+      "A surprise night attack"
+    ],
+    answer: 0,
+    story: "Robert Clive of the English East India Company was badly outnumbered by the Nawab of Bengal — so he won not by fighting but by **bribing the Nawab's commander, Mir Jafar, to defect**. The victory handed the Company the riches of Bengal and is widely seen as the first step toward British rule over India."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "At its peak in the early 1800s, the British East India Company — a private business — kept a private army of roughly...",
+    options: [
+      "260,000 men, about twice the size of Britain's own army",
+      "5,000 men",
+      "25,000 men",
+      "Over a million men"
+    ],
+    answer: 0,
+    story: "A single **corporation** fielded an army around **260,000 strong** — roughly double the British state's own — and used it to rule tens of millions. Only after the great rebellion of 1857 did the British Crown seize direct control, beginning the Raj. It remains history's starkest example of a company conquering a subcontinent."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The popular legend that Shah Jahan chopped off the hands of the Taj Mahal's builders is...",
+    options: [
+      "A myth with no historical evidence",
+      "Well documented in court records",
+      "True, but only for the chief architect",
+      "A story invented by the British"
+    ],
+    answer: 0,
+    story: "There's **no historical record** of any hand-chopping (or blinding) — it's folklore. The Taj, completed around 1653, was a tomb for Shah Jahan's wife Mumtaz Mahal, who died in childbirth; some 20,000 workers built it. One real marvel needs no myth: its white marble seems to shift colour — pinkish at dawn, white by day, golden under the moon."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The Koh-i-Noor diamond in the British Crown Jewels was originally mined in...",
+    options: ["India (the Golconda region)", "South Africa", "Brazil", "Russia"],
+    answer: 0,
+    story: "It likely came from the **Golconda** mines of southern India. It passed through Mughal, Persian, Afghan and Sikh hands — the Persian conqueror Nadir Shah is said to have named it 'Koh-i-Noor,' 'Mountain of Light' — before the British took it in 1849 after annexing Punjab. India, Pakistan, Iran and Afghanistan have all since asked for it back."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "The Constitution of India holds the record as...",
+    options: [
+      "The longest written constitution of any country",
+      "The shortest national constitution",
+      "The world's oldest constitution",
+      "The only entirely unwritten constitution"
+    ],
+    answer: 0,
+    story: "Drafted by a committee chaired by **B.R. Ambedkar** and adopted in 1949, it began with around 395 articles. The original wasn't printed but **hand-written** in flowing calligraphy in Hindi and English, its pages decorated with artwork depicting scenes from Indian history. Those signed originals are preserved in helium-filled cases in Parliament."
+  },
+  {
+    category: "Indian History", difficulty: "hard",
+    question: "The ruins of Hampi (in Karnataka) were the capital of the Vijayanagara Empire, which in the 1500s was...",
+    options: [
+      "One of the largest and richest cities in the world",
+      "A tiny fishing village",
+      "A remote Mughal fort",
+      "A British trading post"
+    ],
+    answer: 0,
+    story: "Persian and Portuguese visitors were stunned by **Vijayanagara** — markets heaped with gems, possibly the second-largest city on Earth at the time. It was sacked in 1565 and abandoned. Today Hampi's boulder-strewn ruins — the famous stone chariot, and pillars at the Vittala temple that chime like instruments — form a UNESCO World Heritage Site."
+  },
+  {
+    category: "Indian History", difficulty: "medium",
+    question: "In 1930, Gandhi led the famous 386-km Salt March to the sea to protest against...",
+    options: [
+      "The British salt tax and monopoly",
+      "An income tax",
+      "Textile imports",
+      "The partition of Bengal"
+    ],
+    answer: 0,
+    story: "It was illegal for Indians to make their own **salt**; they had to buy taxed British salt. Gandhi walked 386 km over 24 days to the coast at Dandi and simply picked up a lump of natural sea salt — an act of quiet defiance that ignited mass civil disobedience across India and drew the world's attention to the independence movement."
+  },
+
+  /* ===================== TECHNOLOGY (more) ===================== */
+  {
+    category: "Technology", difficulty: "medium",
+    question: "The person often credited as the world's first computer programmer, in the 1840s, was...",
+    options: ["Ada Lovelace", "Alan Turing", "Charles Babbage", "Grace Hopper"],
+    answer: 0,
+    story: "Working on Charles Babbage's never-built Analytical Engine, **Ada Lovelace** wrote what's regarded as the first algorithm meant for a machine — to compute Bernoulli numbers. More strikingly, she foresaw that such machines could go beyond arithmetic to manipulate any symbols, even compose music — a vision of general-purpose computing a full century early. The Ada programming language is named for her."
+  },
+  {
+    category: "Technology", difficulty: "medium",
+    question: "IBM engineer David Bradley created the 'Ctrl+Alt+Delete' key combo originally...",
+    options: [
+      "As a quick reboot for programmers, never meant for users",
+      "As a security login feature",
+      "Completely by accident",
+      "For an early video game"
+    ],
+    answer: 0,
+    story: "Bradley made the three-key salute so developers could **reboot a PC fast** without a full power cycle, and deliberately placed the keys far apart so no one would hit it by accident. It was never meant for everyday users. At a 2001 event with Bill Gates on stage, Bradley quipped, 'I may have invented it, but Bill made it famous' — since Windows made users press it to log in."
+  },
+  {
+    category: "Technology", difficulty: "easy",
+    question: "The world's first text message (SMS), sent in 1992, simply read...",
+    options: ["'Merry Christmas'", "'Hello world'", "'Test 1 2 3'", "'Can you hear me?'"],
+    answer: 0,
+    story: "Engineer Neil Papworth typed **'Merry Christmas'** from a computer to a colleague's phone at a work party — and got no reply, because phones back then could receive texts but not send them. The famous 160-character limit was chosen because engineers reckoned it was enough for most short notes. That first message later sold as an NFT for over €100,000."
+  },
+  {
+    category: "Technology", difficulty: "medium",
+    question: "IBM's first commercial hard drive (1956) stored about 5 megabytes and was the size of...",
+    options: [
+      "Two refrigerators — and weighed over a ton",
+      "A shoebox",
+      "A paperback book",
+      "A wristwatch"
+    ],
+    answer: 0,
+    story: "The IBM RAMAC 305's disk unit was a beast: 50 spinning platters two feet across, weighing over a **ton**, holding about 5 MB — less than a single phone photo today. It was too big to buy outright, so firms rented it for thousands of dollars a month and shipped it by cargo plane. A fingernail-sized card now holds hundreds of thousands of times more."
+  },
+  {
+    category: "Technology", difficulty: "hard",
+    question: "Telephone keypads and calculator keypads arrange their digits...",
+    options: [
+      "Upside-down from each other",
+      "In exactly the same order",
+      "In a random scramble",
+      "In a circle"
+    ],
+    answer: 0,
+    story: "Look closely: a calculator puts **789 on top and 123 at the bottom**, while a phone does the reverse. Calculators inherited their layout from mechanical adding machines. When Bell Labs designed the phone keypad in the early 1960s, their research favoured putting the low numbers on top for fewer dialling errors. The two conventions were never reconciled — so your fingers must switch habits between them."
+  },
+
+  /* ===================== BIOLOGY (more) ===================== */
+  {
+    category: "Biology", difficulty: "hard",
+    question: "Roughly what fraction of the human genome is made of ancient viral DNA?",
+    options: ["About 8%", "Exactly 0%", "About 50%", "About 90%"],
+    answer: 0,
+    story: "Around **8%** of your DNA comes from viruses that infected our ancestors and got permanently stitched into the genome. Far from useless, some have been repurposed: a gene borrowed from a virus, syncytin, is essential for building the **placenta**. In a real sense, mammals may owe live birth to a viral infection hundreds of millions of years ago."
+  },
+  {
+    category: "Biology", difficulty: "medium",
+    question: "Naked mole-rats fascinate cancer researchers because they...",
+    options: [
+      "Almost never get cancer and can live over 30 years",
+      "Glow in ultraviolet light",
+      "Have no DNA in their cells",
+      "Never need to sleep"
+    ],
+    answer: 0,
+    story: "These wrinkly, nearly blind rodents live 30+ years — astonishing for their size — and **almost never develop cancer**. Their cells stop dividing when crowded, and they make a gluey form of a molecule (hyaluronan) that seems to block tumours. They also barely feel certain pain and can survive about 18 minutes with no oxygen at all. Biologists mine them for the secrets of long, healthy life."
+  },
+  {
+    category: "Biology", difficulty: "medium",
+    question: "Many forest trees quietly share water, nutrients and even warning signals through...",
+    options: [
+      "Underground fungal networks linking their roots",
+      "The wind carrying scents",
+      "Physical contact between branches",
+      "Birds moving between them"
+    ],
+    answer: 0,
+    story: "Beneath the forest floor, fungi weave threads that connect tree roots into a web nicknamed the **'wood wide web.'** Through these links trees trade sugars and nutrients, big 'mother trees' can feed their seedlings, and some even pass chemical alarms about insect attacks. The fungi take a cut of sugar in return. A forest behaves less like lone individuals than a connected community."
+  },
+  {
+    category: "Biology", difficulty: "easy",
+    question: "A blue whale's heart is roughly the size of...",
+    options: ["A small car", "A basketball", "A human fist", "A grain of rice"],
+    answer: 0,
+    story: "The blue whale is the largest animal known to have ever lived — bigger than any dinosaur — and its heart weighs around 180 kg, about the size of a **small car**. When it dives, that heart can slow to just a couple of beats a minute; its main blood vessels are wide enough to compare to drainpipes. A nursing calf guzzles enough milk to gain about 90 kg a day."
+  },
+  {
+    category: "Biology", difficulty: "hard",
+    question: "After a pregnancy, a mother often carries living cells from her child...",
+    options: [
+      "In her body for decades — sometimes even in her brain",
+      "For only a few days",
+      "Never — cells can't cross the placenta",
+      "Only within the womb lining"
+    ],
+    answer: 0,
+    story: "During pregnancy, fetal cells slip across the placenta and can linger in the mother for **decades** — a phenomenon called microchimerism. They've been found in mothers' blood, healed wounds, and even their brains, where some evidence hints they may help repair tissue. Many mothers are, quite literally, part their children at the cellular level, long after birth."
+  },
+
+  /* ===================== LOGIC & PUZZLES (more) ===================== */
+  {
+    category: "Logic & Puzzles", difficulty: "medium",
+    question: "In the 'prisoner's dilemma,' each of two partners does best by betraying the other — yet if both betray...",
+    options: [
+      "They both end up worse off than if they'd stayed silent",
+      "They both go free",
+      "Nothing changes",
+      "Exactly one of them wins"
+    ],
+    answer: 0,
+    story: "Betraying looks like the smart move whatever your partner does — so both betray, and both get heavier sentences than if they'd cooperated and kept quiet. This is the founding puzzle of **game theory**, and it echoes everywhere: arms races, price wars, climate deals. It shows how everyone acting 'rationally' in self-interest can leave everyone worse off."
+  },
+  {
+    category: "Logic & Puzzles", difficulty: "hard",
+    question: "Braess's paradox is the counterintuitive fact that adding a new road to a congested network can...",
+    options: [
+      "Make everyone's journey slower",
+      "Instantly clear all traffic",
+      "Only ever help",
+      "Reduce the number of cars"
+    ],
+    answer: 0,
+    story: "Because each driver selfishly grabs the fastest route, a tempting new shortcut can funnel everyone onto the same roads and gum up the whole system. The reverse has happened for real: **closing** a major road in Seoul (and in New York) actually improved traffic flow. It's a humbling reminder that in complex systems, more capacity doesn't always mean more speed."
+  },
+  {
+    category: "Logic & Puzzles", difficulty: "hard",
+    question: "A test for a rare disease is '99% accurate.' You test positive. The chance you truly have the disease might be...",
+    options: [
+      "Surprisingly low — often well under 50%",
+      "Exactly 99%",
+      "A certain 100%",
+      "Exactly half"
+    ],
+    answer: 0,
+    story: "If only 1 in 10,000 people has the disease, then in any large group the **false positives massively outnumber the true ones** — so your positive result might mean well under a 1% chance you're actually sick. Ignoring how rare something is (the 'base rate') fools even doctors. That's why positive screens for rare conditions are confirmed with a second, different test."
+  },
+  {
+    category: "Logic & Puzzles", difficulty: "hard",
+    question: "A judge says a prisoner will hang at noon one weekday next week, and the day will be a total 'surprise.' The prisoner reasons he can't be hanged — yet...",
+    options: [
+      "He's hanged Wednesday, genuinely surprised",
+      "He's set free on a technicality",
+      "The judge admits he was bluffing",
+      "He escapes during the confusion"
+    ],
+    answer: 0,
+    story: "The prisoner argues it can't be Friday (by Thursday night it'd be no surprise), so not Thursday, and so on back through the week — 'proving' no surprise hanging is possible. Reassured, he's stunned when the guards come **Wednesday**. The judge was right all along. Philosophers still can't fully agree where the prisoner's airtight-seeming logic actually breaks."
+  },
+
+  /* ===================== POP CULTURE (more) ===================== */
+  {
+    category: "Pop Culture", difficulty: "hard",
+    question: "The tune of the US national anthem 'The Star-Spangled Banner' began life as...",
+    options: [
+      "A British gentlemen's-club drinking song",
+      "A church hymn",
+      "A military bugle call",
+      "A slave spiritual"
+    ],
+    answer: 0,
+    story: "The melody comes from 'To Anacreon in Heaven,' the song of an 18th-century London music-and-**drinking** club named after a Greek poet of wine and love. Francis Scott Key set his 1814 poem about the flag over Fort McHenry to that well-known tune. So America's famously hard-to-sing anthem started as a boozy English club song."
+  },
+  {
+    category: "Pop Culture", difficulty: "medium",
+    question: "In the shower scene of Hitchcock's black-and-white 'Psycho' (1960), the blood was actually...",
+    options: ["Chocolate syrup", "Red poster paint", "Real animal blood", "Tomato ketchup"],
+    answer: 0,
+    story: "Since the film was black-and-white, the 'blood' only had to look right in grey — and **Bosco chocolate syrup** had the perfect dark, glossy flow down the drain. The roughly 45-second scene took about a week to shoot with dozens of camera setups. Hitchcock was so protective of the twist that he reportedly bought up copies of the source novel to hide its ending."
+  },
+  {
+    category: "Pop Culture", difficulty: "medium",
+    question: "The classic line 'You're gonna need a bigger boat' from Jaws was...",
+    options: [
+      "Improvised by the actor on set",
+      "Carefully written into the script",
+      "Added later in editing",
+      "A blooper left in by mistake"
+    ],
+    answer: 0,
+    story: "Roy Scheider **ad-libbed** it, reportedly riffing on a running crew joke about the too-small support boat — needed because the mechanical shark, nicknamed 'Bruce,' kept breaking down. It wasn't scripted, but it fit so perfectly it became the film's signature line and one of the most beloved improvised moments in movie history."
+  },
+  {
+    category: "Pop Culture", difficulty: "medium",
+    question: "In 1962, Decca Records rejected the Beatles, reportedly telling their manager that...",
+    options: [
+      "'Guitar groups are on the way out'",
+      "'They simply can't sing'",
+      "'Come back in ten years'",
+      "'Rock and roll is finished'"
+    ],
+    answer: 0,
+    story: "After an audition, Decca passed on the Beatles — allegedly saying **'guitar groups are on the way out'** and that the band had 'no future in show business' — and signed another act instead. The Beatles became the best-selling band in history. It's the music industry's most legendary 'one that got away,' and a caution against betting against the future."
+  },
+  {
+    category: "Pop Culture", difficulty: "hard",
+    question: "The popular story that Netflix was founded over a $40 late fee for renting 'Apollo 13' is...",
+    options: [
+      "A tidy myth its co-founder says isn't really true",
+      "Fully documented fact",
+      "A scene from a movie",
+      "Completely made up by journalists"
+    ],
+    answer: 0,
+    story: "Reed Hastings often told the late-fee tale to explain Netflix's no-late-fee model. But co-founder Marc Randolph has said it's largely a **convenient myth** — a neat origin story polished after the fact. Netflix actually began by selling and renting DVDs by mail, and only launched its famous subscription model later. Founding legends are often tidied up for the retelling."
+  },
+
+  /* ===================== CHEMISTRY (more) ===================== */
+  {
+    category: "Chemistry", difficulty: "medium",
+    question: "When Dmitri Mendeleev published his periodic table in 1869, its great triumph was that it...",
+    options: [
+      "Predicted the properties of elements not yet discovered",
+      "Listed every element then known",
+      "Was simply the first such table",
+      "Won him a Nobel Prize"
+    ],
+    answer: 0,
+    story: "Mendeleev left **gaps** for undiscovered elements and boldly predicted their properties — even densities and melting points. When gallium, scandium and germanium turned up and matched his forecasts almost exactly, chemists were astonished, and the table was vindicated. Legend says the layout came to him in a dream, though he'd wrestled with it for years."
+  },
+  {
+    category: "Chemistry", difficulty: "hard",
+    question: "The element phosphorus was discovered in 1669 by an alchemist boiling down large quantities of...",
+    options: [
+      "Human urine (while hunting for gold)",
+      "Seawater",
+      "Coal tar",
+      "Fresh blood"
+    ],
+    answer: 0,
+    story: "German alchemist Hennig Brand, sure the golden colour of **urine** hinted at hidden gold, boiled and distilled vat after vat of it. He found no gold — but a waxy substance that glowed in the dark and burst into flame: phosphorus, the first element discovered by a named person. Its name means 'light-bearer,' and chemists sourced it from urine for over a century."
+  },
+  {
+    category: "Chemistry", difficulty: "medium",
+    question: "At ordinary room temperature, only two chemical elements are liquid: mercury and...",
+    options: ["Bromine", "Helium", "Chlorine", "Sodium"],
+    answer: 0,
+    story: "Mercury (a metal) and **bromine** (a reddish-brown nonmetal) are the only two elements liquid at a standard room temperature. Bromine gives off a choking vapour — its name comes from the Greek for 'stench.' A few others, like gallium and caesium, will melt in your hand or on a hot day, but they're solid at normal room temperature."
+  },
+  {
+    category: "Chemistry", difficulty: "easy",
+    question: "Water is unusual because, unlike almost every other substance, it...",
+    options: [
+      "Expands when it freezes, so its solid form floats",
+      "Contracts sharply when frozen",
+      "Cannot be frozen at all",
+      "Has no solid state"
+    ],
+    answer: 0,
+    story: "Most liquids grow denser as they solidify, so the solid sinks. Water does the opposite: freezing locks its molecules into an open lattice that takes up **more** space, so ice floats. This quirk helps life survive winter — ponds and lakes freeze from the top down, forming an insulating lid that keeps the water below liquid for the fish."
+  },
+  {
+    category: "Chemistry", difficulty: "hard",
+    question: "Vantablack, one of the darkest substances ever made (absorbing over 99.9% of light), sparked an art feud because...",
+    options: [
+      "One artist secured exclusive rights to use it",
+      "It turned out to be highly toxic",
+      "A sample was famously stolen",
+      "It faded to grey within days"
+    ],
+    answer: 0,
+    story: "Vantablack is a forest of microscopic carbon nanotubes so absorbent that a 3D object coated in it looks like a flat black void. When artist Anish Kapoor obtained **exclusive artistic rights**, other artists were furious. In protest, Stuart Semple created the 'world's pinkest pink' and banned Kapoor from buying it — kicking off a gleeful, spiteful pigment war."
+  },
+
+  /* ===================== HISTORY (more) ===================== */
+  {
+    category: "History", difficulty: "medium",
+    question: "Mansa Musa of Mali, often called the richest person in history, disrupted whole economies on his 1324 pilgrimage by...",
+    options: [
+      "Giving away so much gold that he crashed its value in Egypt",
+      "Buying up every ship on the Nile",
+      "Hoarding the region's entire salt supply",
+      "Printing vast amounts of money"
+    ],
+    answer: 0,
+    story: "On his hajj to Mecca, Mansa Musa travelled with an enormous entourage and so much **gold** that his gifts and spending in Cairo flooded the market, reportedly depressing gold's value there for around a decade. His fortune, built on Mali's gold and salt trade, was so vast it defies real calculation — and it put the empire of Mali on European maps."
+  },
+  {
+    category: "History", difficulty: "hard",
+    question: "In October 1582, ten calendar dates simply never happened across Catholic Europe because of...",
+    options: [
+      "The switch from the Julian to the Gregorian calendar",
+      "A massive clerical error",
+      "A war that halted record-keeping",
+      "An outbreak of plague"
+    ],
+    answer: 0,
+    story: "The old Julian calendar had drifted about 10 days out of step with the seasons. To fix it, Pope Gregory XIII decreed that **Thursday 4 October 1582 would be followed by Friday 15 October** — erasing ten days. Countries switched at different times (Britain waited until 1752, deleting 11 days), causing confusion in dating history and, by legend, protests from people who felt cheated of days."
+  },
+  {
+    category: "History", difficulty: "medium",
+    question: "The 1815 eruption of Mount Tambora made 1816 'the Year Without a Summer' — which indirectly gave the world...",
+    options: [
+      "The novel Frankenstein",
+      "The first umbrella",
+      "The French Revolution",
+      "The steam engine"
+    ],
+    answer: 0,
+    story: "Tambora hurled so much ash skyward that global temperatures fell, bringing crop failures, summer snow and eerie skies. Stuck indoors by the gloom on a Swiss holiday, a young Mary Shelley and friends held a ghost-story contest — and she wrote **Frankenstein**. The strange, lurid sunsets of those years may also have coloured the vivid skies in Turner's paintings."
+  },
+  {
+    category: "History", difficulty: "medium",
+    question: "The mighty Swedish warship Vasa sank in 1628...",
+    options: [
+      "Less than a mile into its very first voyage",
+      "In a fierce sea battle",
+      "After 50 years of service",
+      "While anchored in a storm"
+    ],
+    answer: 0,
+    story: "Built tall and heavy with two gun decks to show off royal might, the Vasa was dangerously top-heavy. A gust of wind on its **maiden voyage** tipped it, water poured through the open gun ports, and it sank in Stockholm harbour after sailing barely 1,300 metres, in front of horrified crowds. The cold Baltic preserved it, and it was raised nearly intact in 1961 — now a spectacular museum ship."
+  },
+  {
+    category: "History", difficulty: "hard",
+    question: "China's first emperor, Qin Shi Huang — buried with the Terracotta Army — is thought to have died from...",
+    options: [
+      "Mercury pills he took hoping to become immortal",
+      "A wound from battle",
+      "Poison slipped by rivals",
+      "Simple old age"
+    ],
+    answer: 0,
+    story: "Obsessed with eternal life, the emperor reportedly swallowed **mercury** pills believed to grant immortality — which may have poisoned him. Fittingly, ancient texts claim his vast tomb holds rivers of liquid mercury mimicking China's waterways, and soil around the still-unexcavated mound shows unusually high mercury levels. His 8,000 terracotta soldiers were meant to guard him forever."
+  },
+
+  /* ===================== INTERNET (more) ===================== */
+  {
+    category: "Internet", difficulty: "hard",
+    question: "The first-ever registered '.com' domain name, back in 1985, was...",
+    options: ["symbolics.com", "google.com", "apple.com", "ibm.com"],
+    answer: 0,
+    story: "**Symbolics**, a now-defunct computer maker, registered symbolics.com on 15 March 1985 — the first .com in existence, at a time when the Web didn't even exist and barely anyone wanted a domain. Only a handful of .com names were registered that entire year. The domain was later sold to a collector in 2009. Today there are well over 150 million."
+  },
+  {
+    category: "Internet", difficulty: "hard",
+    question: "The first web banner ad (1994) achieved a click-through rate of roughly...",
+    options: ["44%", "4%", "0.4%", "90%"],
+    answer: 0,
+    story: "AT&T's banner on HotWired, reading 'Have you ever clicked your mouse right HERE? You will,' reportedly got about **44%** of viewers to click — a figure unthinkable now, when banners average well under 0.1%. It launched the online-advertising industry that funds much of the web. The novelty faded fast as 'banner blindness' set in."
+  },
+  {
+    category: "Internet", difficulty: "medium",
+    question: "The first widely used set of emoji was designed in 1999 by Shigetaka Kurita for...",
+    options: [
+      "A Japanese mobile phone network",
+      "Apple's first iPhone",
+      "A Nintendo game",
+      "A greeting-card company"
+    ],
+    answer: 0,
+    story: "Kurita drew **176 tiny 12×12-pixel icons** for the Japanese carrier DoCoMo, inspired by weather symbols, manga and Chinese characters, to add feeling to short messages. 'Emoji' comes from Japanese 'e' (picture) + 'moji' (character) — its likeness to 'emotion' is pure coincidence. That original set now lives in New York's Museum of Modern Art."
+  },
+  {
+    category: "Internet", difficulty: "medium",
+    question: "In 2005, a British student paid his university tuition by selling...",
+    options: [
+      "A million pixels of webpage ad space at $1 each",
+      "A single viral video",
+      "Custom ringtones",
+      "Handmade NFTs"
+    ],
+    answer: 0,
+    story: "21-year-old Alex Tew built 'The Million Dollar Homepage' — a grid of 1,000,000 pixels sold at **$1 apiece** to advertisers, who placed tiny clickable logos. The gimmick went viral and earned him about $1,000,000 in months. Many linked sites have since died, leaving the page a frozen time-capsule of the mid-2000s internet."
+  },
+  {
+    category: "Internet", difficulty: "medium",
+    question: "Wikipedia (launched 2001) began as a fast side-project feeding a slow, expert-written encyclopedia called...",
+    options: ["Nupedia", "Encarta", "Britannica Online", "Everipedia"],
+    answer: 0,
+    story: "**Nupedia** used a rigorous seven-stage expert review — and was painfully slow, managing only a couple of dozen articles in a year. Founders Jimmy Wales and Larry Sanger bolted on a 'wiki' anyone could edit to draft articles faster. The wiki exploded, swiftly dwarfing its parent, and Nupedia was shut down. Wikipedia now spans millions of articles in hundreds of languages."
+  },
+
+  /* ===================== ANCIENT HISTORY (more) ===================== */
+  {
+    category: "Ancient History", difficulty: "medium",
+    question: "In ancient Rome, a 'vomitorium' was actually...",
+    options: [
+      "A passage for crowds to stream out of an arena",
+      "A room where feasters purged to keep eating",
+      "A public toilet",
+      "A wine cellar"
+    ],
+    answer: 0,
+    story: "Despite the vivid myth of Romans purging between courses, a **vomitorium** was architecture: the passage through which crowds 'spewed out' of an amphitheatre like the Colosseum. It shares a root with 'vomit' (to disgorge), but referred to the fast flow of *people*, not food. The gorge-and-purge legend was invented much later."
+  },
+  {
+    category: "Ancient History", difficulty: "medium",
+    question: "The workers who built the Egyptian pyramids were...",
+    options: [
+      "Paid labourers, often fed bread and beer",
+      "Foreign slaves driven by whips",
+      "Convicted criminals",
+      "Prisoners of war only"
+    ],
+    answer: 0,
+    story: "The whip-driven-slave image is wrong. Archaeology — a workers' village with bakeries and breweries, and honoured builders' tombs beside the pyramids — shows they were skilled, **paid** crews, fed rations including bread and beer, some seasonal farmers working during the Nile flood. They were buried with dignity near the pharaohs they served."
+  },
+  {
+    category: "Ancient History", difficulty: "hard",
+    question: "The first labour strike recorded in history took place in Egypt around 1150 BCE, when...",
+    options: [
+      "Royal tomb-builders downed tools over late food rations",
+      "Farmers refused to plant crops",
+      "Soldiers mutinied over pay",
+      "Scribes stopped writing"
+    ],
+    answer: 0,
+    story: "Under Pharaoh Ramesses III, the skilled artisans building royal tombs at **Deir el-Medina** didn't receive their grain rations on time — so they stopped work and staged sit-ins at temples. It's the first documented strike in history, recorded on surviving papyrus. Even 3,000 years ago, workers understood the power of withholding their labour."
+  },
+  {
+    category: "Ancient History", difficulty: "medium",
+    question: "The ~3,750-year-old Code of Hammurabi is best known for establishing the principle of...",
+    options: [
+      "'An eye for an eye' (proportional retaliation)",
+      "Trial by a jury of peers",
+      "Innocent until proven guilty",
+      "The right to remain silent"
+    ],
+    answer: 0,
+    story: "Babylonian king Hammurabi had 282 laws carved on a tall stone stele, topped by a scene of him receiving authority from a god. Many impose proportional payback — **'if a man puts out another's eye, his eye shall be put out'** — though punishments varied by social class. It's among the earliest and most complete written legal codes, predating many others by over a millennium."
+  },
+  {
+    category: "Ancient History", difficulty: "hard",
+    question: "The oldest known written melody, preserved on a clay tablet, is about 3,400 years old and comes from...",
+    options: [
+      "The ancient city of Ugarit (in modern Syria)",
+      "Classical Athens",
+      "Old Kingdom Egypt",
+      "Imperial Rome"
+    ],
+    answer: 0,
+    story: "The 'Hurrian Hymn No. 6,' from **Ugarit**, is a religious song written in cuneiform with instructions for a lyre — the oldest substantially complete piece of notated music ever found. Scholars disagree on exactly how to read it, so modern reconstructions vary, but any version lets you hear a tune written down over three thousand years ago."
+  },
+
+  /* ===================== SPACE (more) ===================== */
+  {
+    category: "Space", difficulty: "medium",
+    question: "The number of stars in the observable universe is estimated to be...",
+    options: [
+      "Greater than all the grains of sand on Earth",
+      "About equal to Earth's grains of sand",
+      "Far fewer than Earth's sand grains",
+      "Exactly one trillion"
+    ],
+    answer: 0,
+    story: "The sand grains on all Earth's beaches and deserts number around 7.5 quintillion (7.5 × 10¹⁸). But the observable universe holds perhaps 100 billion galaxies, each with tens or hundreds of billions of stars — so **far more stars than sand grains**. Stranger still, there may be more water molecules in a single glass than there are stars in the sky."
+  },
+  {
+    category: "Space", difficulty: "medium",
+    question: "The Moon is slowly moving away from Earth at about...",
+    options: [
+      "3.8 cm a year — roughly how fast fingernails grow",
+      "3.8 metres a year",
+      "It isn't moving; it's fixed",
+      "It's actually getting closer"
+    ],
+    answer: 0,
+    story: "Tides transfer Earth's spin energy to the Moon, nudging it outward about **3.8 cm a year** — measured by bouncing lasers off reflectors Apollo astronauts left behind. As a knock-on effect, Earth's days are slowly lengthening; hundreds of millions of years ago a day was only about 22 hours. Eventually the Moon will look too small to ever fully cover the Sun, ending total eclipses."
+  },
+  {
+    category: "Space", difficulty: "medium",
+    question: "Since its discovery in 1930, the dwarf planet Pluto has...",
+    options: [
+      "Not yet completed a single orbit of the Sun",
+      "Orbited the Sun three times",
+      "Drifted out of the solar system",
+      "Stopped moving entirely"
+    ],
+    answer: 0,
+    story: "Pluto takes about **248 Earth years** to loop the Sun once. Discovered in 1930, it won't finish the orbit it was on when found until the year 2178 — no human has ever seen a full 'Pluto year.' Reclassified a dwarf planet in 2006, it revealed a huge heart-shaped plain of frozen nitrogen when New Horizons flew past in 2015."
+  },
+  {
+    category: "Space", difficulty: "easy",
+    question: "Astronauts on the International Space Station see roughly how many sunrises each day?",
+    options: ["16", "1", "4", "100"],
+    answer: 0,
+    story: "The ISS circles Earth about every 90 minutes at some 28,000 km/h, so its crew sees around **16 sunrises and 16 sunsets** every 24 hours. That havoc on the body clock means they keep a fixed 'day' with scheduled lighting. It also poses a puzzle for religious astronauts: how to time daily prayers or a fast when the sun rises sixteen times?"
+  },
+  {
+    category: "Space", difficulty: "medium",
+    question: "Uranus is unusual among the planets because it...",
+    options: [
+      "Spins almost completely on its side (tilted ~98°)",
+      "Has no moons at all",
+      "Doesn't spin",
+      "Orbits the Sun backwards"
+    ],
+    answer: 0,
+    story: "Most planets spin roughly upright like tops; Uranus is tipped nearly **98°**, essentially rolling around the Sun on its side — probably knocked over by a giant ancient collision. This gives each pole about 42 years of nonstop sunlight, then 42 years of darkness. Oddly, it also has the coldest atmosphere in the solar system — colder even than Neptune, which lies farther out."
+  },
+
+  /* ===================== FINANCE (more) ===================== */
+  {
+    category: "Finance", difficulty: "hard",
+    question: "After losing a fortune in the 1720 South Sea Bubble, Isaac Newton reportedly lamented that he could...",
+    options: [
+      "'Calculate the motions of the heavenly bodies, but not the madness of people'",
+      "'Never trust a banker again'",
+      "'See the future written in the stars'",
+      "'Not even add up his own losses'"
+    ],
+    answer: 0,
+    story: "Newton invested in the South Sea Company, sold early at a neat profit — then, watching the stock keep soaring, piled back in near the peak. When the bubble burst he lost around £20,000, a fortune then. He's said to have remarked he could **calculate the heavens but not the madness of people**. Even a genius fell for the mania."
+  },
+  {
+    category: "Finance", difficulty: "medium",
+    question: "The word 'bankrupt' comes from an Italian phrase meaning...",
+    options: ["'Broken bench'", "'Empty purse'", "'No more gold'", "'Closed shop'"],
+    answer: 0,
+    story: "Medieval Italian traders and moneylenders did business on benches ('banca') in the marketplace — the same root as 'bank.' When one couldn't pay his debts, his bench was reportedly smashed — **'banca rotta,' broken bench** — leaving him with nowhere to trade. The broken bench became the very word for financial ruin."
+  },
+  {
+    category: "Finance", difficulty: "medium",
+    question: "The world's first cash machine (1967, London) reportedly took its inspiration from...",
+    options: [
+      "A chocolate-bar vending machine",
+      "A bank robbery",
+      "An early computer game",
+      "A jammed safe"
+    ],
+    answer: 0,
+    story: "Inventor John Shepherd-Barron said the idea struck after he missed his bank's closing time: a **vending machine, but for cash**. His first ATM at Barclays used special vouchers rather than plastic cards. He also devised the PIN — and wanted six digits, but his wife said she could only remember four, which is why most PINs are four digits to this day."
+  },
+  {
+    category: "Finance", difficulty: "hard",
+    question: "On 'Black Wednesday' in 1992, investor George Soros made around $1 billion by betting against...",
+    options: ["The British pound", "The US dollar", "Gold", "Japanese stocks"],
+    answer: 0,
+    story: "Convinced the **pound** was propped up too high within Europe's exchange-rate system, Soros's fund bet enormously against it. When Britain couldn't hold the line and was forced to pull out, the pound plunged and Soros pocketed a reported $1 billion in a day — earning the title 'the man who broke the Bank of England.' It's the textbook speculative currency attack."
+  },
+  {
+    category: "Finance", difficulty: "medium",
+    question: "The first widely used charge card, Diners Club (1950), was supposedly inspired when its founder...",
+    options: [
+      "Forgot his wallet at a restaurant",
+      "Won a large bet",
+      "Lost his cash gambling",
+      "Was refused a bank loan"
+    ],
+    answer: 0,
+    story: "Businessman Frank McNamara, embarrassed to find he'd left his wallet at a New York restaurant, imagined a card that could settle bills at many places, billed monthly. The **Diners Club** card launched in 1950 — first as cardboard, accepted at a handful of restaurants — and kick-started the cashless age. The 'forgotten wallet' tale may be a marketing polish, but the card was real enough."
+  },
+
+  /* ===================== POLITICS (more) ===================== */
+  {
+    category: "Politics", difficulty: "medium",
+    question: "The 'Hundred Years' War' between England and France actually lasted...",
+    options: ["116 years", "Exactly 100 years", "About 50 years", "Over 200 years"],
+    answer: 0,
+    story: "The on-and-off conflict ran from 1337 to 1453 — about **116 years** — across five English and five French kings. It wasn't constant fighting but a chain of wars, truces and uneasy peaces, featuring Joan of Arc and the longbow's triumph at Agincourt. The tidy name was coined by historians long afterward; by the end, England had lost almost all its French lands."
+  },
+  {
+    category: "Politics", difficulty: "medium",
+    question: "William Henry Harrison holds the record for the shortest US presidency at about...",
+    options: ["31 days", "Four years", "Two years", "100 days"],
+    answer: 0,
+    story: "At his 1841 inauguration the 68-year-old Harrison gave the **longest inaugural speech ever** — nearly two hours — in cold, wet weather. He fell ill and died about a month later. For generations the tale blamed pneumonia from the speech, though modern researchers suspect typhoid from contaminated water. Either way, he served just 31 days."
+  },
+  {
+    category: "Politics", difficulty: "medium",
+    question: "Nepal is the only country in the world whose national flag is...",
+    options: [
+      "Not a rectangle — it's two stacked pennants",
+      "All a single colour",
+      "Perfectly circular",
+      "A perfect square"
+    ],
+    answer: 0,
+    story: "Every other nation flies a four-sided flag; **Nepal's** is a unique double-pennon of two stacked triangles, bearing a moon and a sun to express the hope the nation lasts as long as they do. Its exact geometry is even spelled out in construction instructions written into Nepal's constitution — precise as well as one of a kind."
+  },
+  {
+    category: "Politics", difficulty: "hard",
+    question: "Between 2010 and 2011, Belgium set a world record by going how long without an elected government?",
+    options: ["589 days", "30 days", "100 days", "Five years"],
+    answer: 0,
+    story: "Divisions between Belgium's Dutch- and French-speaking regions left parties unable to form a coalition, so a caretaker government ran the country for a record **589 days**. Daily life carried on fine — prompting jokes about whether governments are strictly necessary — and citizens staged cheerful protests, including handing out free fries."
+  },
+  {
+    category: "Politics", difficulty: "hard",
+    question: "The tiny Pacific nation of Nauru was briefly among the richest countries per person thanks to...",
+    options: [
+      "Phosphate rock formed largely from bird droppings",
+      "Offshore oil",
+      "Luxury tourism",
+      "Gold deposits"
+    ],
+    answer: 0,
+    story: "Nauru sat atop rich **phosphate** — built up over ages largely from seabird droppings — a prized fertiliser. Mining made citizens extravagantly wealthy in the 1970s–80s. But it gutted the island's interior into a barren moonscape, the fortune was lost on bad investments, and Nauru collapsed economically: a stark warning about depending on one finite resource."
+  },
+
+  /* ===================== GENERAL KNOWLEDGE (more) ===================== */
+  {
+    category: "General Knowledge", difficulty: "medium",
+    question: "Bubble wrap was originally invented in 1957 to be sold as...",
+    options: ["Textured 3D wallpaper", "Packing material", "A pool float", "Greenhouse glass"],
+    answer: 0,
+    story: "Two engineers sealed two shower curtains together, trapping air bubbles, hoping to sell trendy **3D wallpaper**. It flopped. Their next pitch — greenhouse insulation — flopped too. Only when IBM needed to protect a new computer in transit did bubble wrap find its true calling as packaging. Popping it, of course, became a bonus feature."
+  },
+  {
+    category: "General Knowledge", difficulty: "medium",
+    question: "Play-Doh was originally sold as a...",
+    options: ["Wallpaper cleaner", "Breakfast food", "Craft glue", "Bath soap"],
+    answer: 0,
+    story: "In the 1930s–40s the pliable putty was sold to rub soot and grime off wallpaper heated by coal. When coal heating faded and washable wallpaper arrived, sales collapsed. A relative who taught nursery school noticed kids loved moulding it — so it was rebranded as a **children's toy** in the 1950s. One of history's great accidental pivots."
+  },
+  {
+    category: "General Knowledge", difficulty: "hard",
+    question: "In English the word 'orange' named the fruit before the colour. Earlier, that colour was often called...",
+    options: ["'Yellow-red' (geoluread)", "'Gold'", "'Amber'", "It simply had no name"],
+    answer: 0,
+    story: "The fruit and its name reached Europe before there was a dedicated word for the hue, so earlier English speakers called it **'geoluread' — literally 'yellow-red.'** Only once the fruit grew familiar did 'orange' get borrowed for the colour. It's why we still say 'redhead' for orange hair and call a robin a 'redbreast' — those names predate the colour word."
+  },
+  {
+    category: "General Knowledge", difficulty: "easy",
+    question: "The popular claim that humans use only 10% of their brains is...",
+    options: [
+      "A complete myth — we use virtually all of it",
+      "Roughly accurate",
+      "True only while we sleep",
+      "True for most adults"
+    ],
+    answer: 0,
+    story: "Brain scans show we use **virtually all** of the brain, just not all at once — even simple tasks light up many regions, and there are no vast idle zones. Damage almost anywhere causes problems, which couldn't happen if 90% were spare. The myth endures because it's a seductive promise: that we're all hiding untapped superpowers."
+  },
+  {
+    category: "General Knowledge", difficulty: "hard",
+    question: "Over the long term, a single day on Earth is very gradually...",
+    options: [
+      "Getting longer, as the planet's spin slows",
+      "Getting shorter",
+      "Staying exactly 24 hours forever",
+      "Reversing direction"
+    ],
+    answer: 0,
+    story: "The Moon's tidal pull is slowly braking Earth's rotation, stretching the day by roughly **1.7 milliseconds per century**. Growth bands in ancient fossil corals confirm it: hundreds of millions of years ago, a year held around 400 shorter days. It's also why timekeepers occasionally insert a 'leap second' to keep clocks matched to the wobbling Earth."
+  },
+
+  /* ===================== TRANSPORTATION (more) ===================== */
+  {
+    category: "Transportation", difficulty: "medium",
+    question: "Around the year 1900, electric cars...",
+    options: [
+      "Were popular and briefly rivalled or outsold petrol cars",
+      "Did not yet exist",
+      "Were banned in cities",
+      "Were only children's toys"
+    ],
+    answer: 0,
+    story: "At the dawn of the automobile, electric cars were clean, quiet and easy to start (no hand-crank), and around 1900 they were **among the best-selling cars in America**, loved for city driving. Cheap oil, the electric starter and Ford's affordable, long-range Model T pushed them aside. Over a century later, EVs are finally staging a comeback — having nearly been the default the first time around."
+  },
+  {
+    category: "Transportation", difficulty: "medium",
+    question: "Airline food often tastes bland largely because...",
+    options: [
+      "Cabin pressure and dry air dull your senses of taste and smell",
+      "Airlines always use frozen ingredients",
+      "Radiation at altitude affects food",
+      "It's cooked days in advance"
+    ],
+    answer: 0,
+    story: "At cruising altitude, low pressure, bone-dry air and constant noise blunt your perception of sweet and salty by up to about **30%**. That's why airlines over-season meals, and why savoury tomato juice — whose 'umami' taste holds up better aloft — is oddly popular on flights. Your taste buds aren't broken; the cabin just numbs them."
+  },
+  {
+    category: "Transportation", difficulty: "medium",
+    question: "Planes dim the cabin lights for night takeoffs and landings mainly to...",
+    options: [
+      "Pre-adjust passengers' eyes in case of an emergency evacuation",
+      "Save fuel",
+      "Help passengers fall asleep",
+      "Reduce glare for the pilots"
+    ],
+    answer: 0,
+    story: "Takeoff and landing are the riskiest phases of flight. If you had to evacuate into darkness in seconds, eyes adjusting from bright light would cost precious time — so crews **dim the cabin beforehand** to pre-adapt your vision. It's the same reason window shades go up: so the crew (and you) can see conditions outside."
+  },
+  {
+    category: "Transportation", difficulty: "hard",
+    question: "The world's first traffic light, installed near London's Parliament in 1868, failed because it...",
+    options: [
+      "Exploded, reportedly injuring the policeman operating it",
+      "Was too tall for drivers to see",
+      "Caused a massive traffic jam",
+      "Was stolen within a week"
+    ],
+    answer: 0,
+    story: "Decades before cars, London erected a gas-lit signal with semaphore arms to manage horse traffic. It worked briefly — until a gas leak made the lamp **explode**, reportedly injuring its operator. The idea was dropped for nearly 50 years, until electric traffic lights emerged in the US in the 1910s–20s. The very first attempt literally blew up."
+  },
+
+  /* ===================== LANGUAGE (more) ===================== */
+  {
+    category: "Language", difficulty: "medium",
+    question: "The word 'nice' originally meant...",
+    options: ["Foolish or ignorant", "Kind and generous", "Wealthy", "Brave"],
+    answer: 0,
+    story: "From the Latin 'nescius' (ignorant), **'nice' first meant foolish or silly**. Over centuries it drifted through 'fussy,' then 'precise' (we still say 'a nice distinction'), then 'agreeable' — landing on today's vague compliment. Few words have wandered so far. The reverse happened to 'silly,' which once meant 'blessed' and 'innocent.'"
+  },
+  {
+    category: "Language", difficulty: "medium",
+    question: "The word 'clue' comes from 'clew,' which originally meant...",
+    options: ["A ball of thread", "A footprint", "A whisper", "A torn map"],
+    answer: 0,
+    story: "A 'clew' was a **ball of yarn** — evoking the Greek myth in which Theseus unwound thread through the labyrinth so he could retrace his way out after killing the Minotaur. To 'follow a clew' meant tracing that thread toward a solution. The spelling softened to 'clue,' and it came to mean any hint that guides you through a mystery."
+  },
+  {
+    category: "Language", difficulty: "medium",
+    question: "The word 'boycott' comes from...",
+    options: [
+      "The name of a hated land agent, Captain Boycott",
+      "An old French verb for 'refuse'",
+      "A medieval trade law",
+      "A famous merchant ship"
+    ],
+    answer: 0,
+    story: "In 1880s Ireland, land agent Captain Charles **Boycott** evicted struggling tenant farmers. In protest the community shunned him utterly — labourers wouldn't work his fields, shops wouldn't serve him, even his post was disrupted. The campaign was so effective and so widely reported that his own name became the word for organised collective shunning."
+  },
+  {
+    category: "Language", difficulty: "hard",
+    question: "The word 'disaster' literally comes from roots meaning...",
+    options: ["'Bad star'", "'Great fall'", "'Broken ground'", "'Dark day'"],
+    answer: 0,
+    story: "'Disaster' traces to the Italian 'disastro' — **'dis' (bad) + 'astro' (star)** — from the old belief that catastrophes were caused by an unfavourable alignment of the stars: to be 'ill-starred.' Many words fossilise that idea: to be 'jovial' is to be under Jupiter's sway, and 'influenza' meant the 'influence' of the stars on our health."
+  },
+
+  /* ===================== MATHEMATICS (more) ===================== */
+  {
+    category: "Mathematics", difficulty: "hard",
+    question: "Around 1637, Pierre de Fermat scribbled that he had a marvellous proof of a theorem, but that...",
+    options: [
+      "The margin was too small to contain it",
+      "He had forgotten the details",
+      "He would publish it the next year",
+      "Only God could understand it"
+    ],
+    answer: 0,
+    story: "Fermat claimed no three positive integers satisfy aⁿ + bⁿ = cⁿ for any n above 2, noting he had 'a marvellous proof which this margin is too narrow to contain' — then never wrote it down. The teasing note tormented mathematicians for **358 years**, until Andrew Wiles proved it in 1994 using tools Fermat couldn't have had. Whether Fermat truly had a proof remains a delicious mystery."
+  },
+  {
+    category: "Mathematics", difficulty: "medium",
+    question: "In mathematics, the number 0.9999… (repeating forever) is...",
+    options: ["Exactly equal to 1", "Just a tiny bit less than 1", "Undefined", "Not a real number"],
+    answer: 0,
+    story: "It feels impossible, but 0.999… equals **exactly 1** — not nearly, precisely. One quick argument: 1/3 = 0.333…, so 3 × (1/3) = 0.999…, which must equal 3 × 1/3 = 1. There's no number you can fit between them, so they're the same value written two ways. It's a favourite classroom brawl that shows how infinity quietly bends our intuition."
+  },
+  {
+    category: "Mathematics", difficulty: "hard",
+    question: "The Four Color Theorem (any map needs only four colours) was historic in 1976 for being...",
+    options: [
+      "The first major theorem proved with the help of a computer",
+      "Proven unprovable",
+      "Solved by a schoolchild",
+      "Disproven after 100 years"
+    ],
+    answer: 0,
+    story: "The claim is simple — four colours always suffice so no two bordering regions match — but the proof required checking an enormous number of cases, so many that Appel and Haken used a **computer** to grind through them. It was the first celebrated theorem whose proof no human could fully check by hand, sparking a lasting debate: if nobody can verify every step, is it truly proved?"
+  },
+  {
+    category: "Mathematics", difficulty: "hard",
+    question: "Take any 4-digit number (not all digits equal), repeatedly subtract its digits sorted low from high, and you always reach...",
+    options: ["6174", "1000", "9999", "1234"],
+    answer: 0,
+    story: "This is **Kaprekar's constant**. Try 3524: 5432 − 2345 = 3087; repeat, and within at most seven steps you always land on 6174 — after which it loops on itself (7641 − 1467 = 6174). Discovered by the Indian mathematician D.R. Kaprekar in 1949, it's a small piece of magic hiding inside ordinary arithmetic."
+  },
+
+  /* ===================== FOOD & DRINK (more) ===================== */
+  {
+    category: "Food & Drink", difficulty: "medium",
+    question: "When Coca-Cola first went on sale in the 1880s, it contained...",
+    options: [
+      "A small amount of cocaine, from coca-leaf extract",
+      "Pure caffeine and nothing else",
+      "A splash of alcohol",
+      "Morphine"
+    ],
+    answer: 0,
+    story: "Invented by pharmacist John Pemberton as a 'medicinal' tonic, early Coca-Cola drew a trace of **cocaine** from coca leaves, plus caffeine from the kola nut — hence the name. The amount was small but real. Amid growing concern, the active cocaine was removed by around 1903; the company still uses specially processed, cocaine-free coca leaves for flavour today."
+  },
+  {
+    category: "Food & Drink", difficulty: "medium",
+    question: "The croissant, an icon of French bakeries, actually originated in...",
+    options: ["Austria (as the 'kipferl')", "Italy", "Turkey", "Ancient Egypt"],
+    answer: 0,
+    story: "The crescent-shaped **'kipferl'** was eaten in Austria for centuries before an Austrian entrepreneur brought Viennese baking to Paris in the 1800s. The French reworked it with buttery, laminated puff-style dough to create the flaky croissant we love. A famous legend ties the crescent to a victory over the Ottomans — probably invented — but the Austrian roots are real."
+  },
+  {
+    category: "Food & Drink", difficulty: "hard",
+    question: "Worcestershire sauce was reportedly discovered when its makers...",
+    options: [
+      "Left a 'failed,' too-strong batch to age in a barrel for months",
+      "Accidentally spilled two sauces together",
+      "Burned a pot of stew",
+      "Imported it and relabelled it"
+    ],
+    answer: 0,
+    story: "The tale goes that chemists Lea and Perrins mixed a batch in the 1830s, found it unbearably harsh, and abandoned the barrels in a cellar. Rediscovering them much later, they tasted the **aged** sauce and found it had mellowed into something wonderful. Descended from Roman and Indian fish sauces, the anchovy-laced condiment went global — its recipe still partly secret."
+  },
+  {
+    category: "Food & Drink", difficulty: "hard",
+    question: "Vanilla is among the priciest spices largely because each flower must be...",
+    options: [
+      "Hand-pollinated — a method devised by a 12-year-old",
+      "Aged underground for 50 years",
+      "Harvested only at midnight",
+      "Grown at high altitude"
+    ],
+    answer: 0,
+    story: "Vanilla comes from an orchid whose blooms last less than a day and, outside its native Mexico, has no natural pollinator. In 1841, a 12-year-old enslaved boy named Edmond Albius on Réunion Island invented a quick **hand-pollination** trick with a sliver of bamboo — still used worldwide. His method made global vanilla farming possible, though he died poor and largely uncredited."
+  },
+
+  /* ===================== PSYCHOLOGY (more) ===================== */
+  {
+    category: "Psychology", difficulty: "medium",
+    question: "In Stanley Milgram's famous 1961 experiment, ordinary people proved willing to...",
+    options: [
+      "Deliver what they believed were dangerous shocks to a stranger, when ordered to",
+      "Cheat on a simple test",
+      "Steal small sums of money",
+      "Walk past someone in distress"
+    ],
+    answer: 0,
+    story: "Told by a calm experimenter to give ever-stronger 'shocks' to a person (actually an actor) for wrong answers, about **65% of participants went all the way to a potentially lethal 450 volts** despite hearing screams — simply because an authority urged them on. Staged after the Nazi trials, it probed how ordinary people commit atrocities under orders. Its ethics are debated, but the core finding unsettles to this day."
+  },
+  {
+    category: "Psychology", difficulty: "medium",
+    question: "The 'nocebo effect' is the placebo's dark twin, in which...",
+    options: [
+      "Expecting harm can trigger real physical symptoms",
+      "A sugar pill cures any disease",
+      "Patients feel nothing at all",
+      "Only doctors are affected"
+    ],
+    answer: 0,
+    story: "A placebo can genuinely make you feel better because you expect it to. The **nocebo** effect runs the other way: expect side effects or harm, and you can develop real, measurable symptoms from a totally inert substance. In drug trials, patients on sugar pills sometimes report the exact side effects listed for the real drug. Belief alone can heal — or hurt."
+  },
+  {
+    category: "Psychology", difficulty: "hard",
+    question: "The 'Zeigarnik effect' is our tendency to...",
+    options: [
+      "Remember unfinished tasks better than completed ones",
+      "Forget names the instant we hear them",
+      "Recall our very earliest memory vividly",
+      "Unconsciously copy others' posture"
+    ],
+    answer: 0,
+    story: "A psychologist noticed waiters could recall complex unpaid orders in detail — then forgot them the moment the bill was settled. Experiments confirmed it: the mind clings to **incomplete tasks**, holding a low-level tension that only releases once we finish. It's why cliffhangers hook you, why open to-do loops nag, and why just *starting* a task makes it easier to return to."
+  },
+  {
+    category: "Psychology", difficulty: "hard",
+    question: "The 'McGurk effect' demonstrates that what you see can override what you...",
+    options: ["Hear", "Smell", "Taste", "Feel"],
+    answer: 0,
+    story: "Watch a video of lips mouthing 'ga' while the audio actually plays 'ba,' and most people hear a third sound — 'da' — as the brain fuses the clashing cues. Astonishingly, the illusion holds even when you know the trick. It reveals that hearing isn't passive: your brain constantly blends sight and sound to decide what was said, which is partly why speech is harder to follow when you can't see the speaker's face."
+  },
+
   /* __END__ */
 ];

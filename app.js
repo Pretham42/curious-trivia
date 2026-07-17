@@ -13,6 +13,7 @@
     "Pop Culture":       { emoji: "🎬", color: "#f0abfc", desc: "Hidden sounds, secret codes, and film-set legends." },
     "Chemistry":         { emoji: "⚗️", color: "#5eead4", desc: "Elements with backstories and reactions that changed history." },
     "History":           { emoji: "📜", color: "#fcd34d", desc: "The strange, true events they skipped in class." },
+    "Indian History":    { emoji: "🛕", color: "#ff9933", desc: "Chola bronzes, Sangam poets and mighty empires — with a Tamil Nadu tilt." },
     "Internet":          { emoji: "🌐", color: "#93c5fd", desc: "First messages, first memes, and how the web really began." },
     "Ancient History":   { emoji: "🏺", color: "#fdba74", desc: "Lost tech and early civilizations that were way ahead of us." },
     "Space":             { emoji: "🪐", color: "#a5b4fc", desc: "Diamond rain, dead stars, and the scale of the cosmos." },
@@ -29,9 +30,9 @@
   /* Display order: the user's requested categories first, bonuses after */
   var CATEGORY_ORDER = [
     "Technology", "Biology", "Logic & Puzzles", "Pop Culture", "Chemistry",
-    "History", "Internet", "Ancient History", "Space", "Finance", "Politics",
-    "General Knowledge", "Transportation", "Language", "Mathematics",
-    "Food & Drink", "Psychology"
+    "History", "Indian History", "Internet", "Ancient History", "Space",
+    "Finance", "Politics", "General Knowledge", "Transportation", "Language",
+    "Mathematics", "Food & Drink", "Psychology"
   ];
 
   var QUIZ_LEN_CATEGORY = 10;
