@@ -17,7 +17,7 @@ gold, tardigrades in space) rather than dry general knowledge.
 
 ## Features
 
-- **174 questions** across **17 categories**
+- **278 questions** across **18 categories**
 - A detailed, fact-checked **story reveal** after every question
 - Randomised question *and* answer order — every run is different
 - Score + streak tracking and a results screen
@@ -27,9 +27,10 @@ gold, tardigrades in space) rather than dry general knowledge.
 
 ## Categories
 
-Technology · Biology · Logic & Puzzles · Pop Culture · Chemistry · History · Internet ·
-Ancient History · Space · Finance · Politics · General Knowledge · Transportation ·
-Language · Mathematics · Food & Drink · Psychology
+Technology · Biology · Logic & Puzzles · Pop Culture · Chemistry · History ·
+Indian History (with a Tamil Nadu emphasis) · Internet · Ancient History · Space ·
+Finance · Politics · General Knowledge · Transportation · Language · Mathematics ·
+Food & Drink · Psychology
 
 ## Run it locally
 
