@@ -1,0 +1,118 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="A trivia game where every answer unlocks the strange, brilliant story behind it. Space, biology, history, chemistry, the internet and more." />
+<meta name="theme-color" content="#0e1428" />
+<title>The Story Behind — Trivia Worth Knowing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css?v=3" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%A1%3C/text%3E%3C/svg%3E" />
+
+<header class="site-header">
+  <a class="brand" href="#" data-action="home" aria-label="The Story Behind — home">
+    <span class="brand-mark">💡</span>
+    <span class="brand-text">
+      <span class="brand-title">The Story Behind</span>
+      <span class="brand-tag">trivia worth knowing</span>
+    </span>
+  </a>
+  <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle light and dark theme">
+    <span class="theme-icon">🌙</span>
+  </button>
+</header>
+
+<main id="app">
+  <!-- ============ HOME ============ -->
+  <section class="view" id="home">
+    <div class="hero">
+      <p class="hero-eyebrow">Not your average pub quiz</p>
+      <h1 class="hero-title">Every answer has a<br /><em>story worth telling.</em></h1>
+      <p class="hero-sub">
+        Guess the answer, then read the strange, brilliant true story behind it —
+        why airplane windows are round, how a moth caused the first computer "bug,"
+        and why it rains diamonds on Neptune.
+      </p>
+      <div class="hero-actions">
+        <button class="btn btn-primary" data-action="start-mixed">
+          🎲 Start a random mix
+        </button>
+        <button class="btn btn-ghost" data-action="scroll-categories">
+          Browse categories ↓
+        </button>
+      </div>
+      <div class="hero-stats" id="heroStats"></div>
+    </div>
+
+    <div class="section-head" id="categories">
+      <h2>Pick a rabbit hole</h2>
+      <p>Every category is packed with questions chosen for the story behind them.</p>
+    </div>
+    <div class="category-grid" id="categoryGrid"></div>
+  </section>
+
+  <!-- ============ QUIZ ============ -->
+  <section class="view" id="quiz" hidden>
+    <div class="quiz-topbar">
+      <button class="btn btn-back" data-action="home">← Categories</button>
+      <div class="quiz-scoreboard">
+        <div class="score-chip" title="Correct answers this run">
+          <span class="score-icon">✓</span>
+          <span id="scoreValue">0</span><span class="score-total">/<span id="scoreSeen">0</span></span>
+        </div>
+        <div class="score-chip streak" title="Current streak">
+          <span class="score-icon">🔥</span>
+          <span id="streakValue">0</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quiz-progress">
+      <span class="quiz-cat-badge" id="quizCatBadge">Category</span>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+      <span class="quiz-count" id="quizCount">1 / 10</span>
+    </div>
+
+    <article class="question-card" id="questionCard">
+      <div class="q-head">
+        <span class="q-difficulty" id="qDifficulty">medium</span>
+      </div>
+      <h2 class="q-text" id="qText">Loading…</h2>
+      <div class="options" id="options"></div>
+
+      <div class="story-panel" id="storyPanel" hidden>
+        <div class="verdict" id="verdict"></div>
+        <div class="story-body">
+          <h3 class="story-title">📖 The story behind it</h3>
+          <p class="story-text" id="storyText"></p>
+        </div>
+        <button class="btn btn-primary btn-next" id="nextBtn" data-action="next">
+          Next question →
+        </button>
+      </div>
+    </article>
+  </section>
+
+  <!-- ============ RESULTS ============ -->
+  <section class="view" id="results" hidden>
+    <div class="results-card">
+      <div class="results-emoji" id="resultsEmoji">🎉</div>
+      <h2 class="results-title" id="resultsTitle">Nicely done!</h2>
+      <p class="results-score" id="resultsScore">You scored 0 / 0</p>
+      <p class="results-blurb" id="resultsBlurb"></p>
+      <div class="results-actions">
+        <button class="btn btn-primary" data-action="replay">Play this category again</button>
+        <button class="btn btn-ghost" data-action="start-mixed">🎲 Random mix</button>
+        <button class="btn btn-ghost" data-action="home">← All categories</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Made for the genuinely curious. Every fact double-checked; every story real.</p>
+  <p class="footer-sub">No ads, no tracking, no accounts — just good trivia.</p>
+</footer>
+
+<script src="questions.js"></script>
+<script src="app.js"></script>
