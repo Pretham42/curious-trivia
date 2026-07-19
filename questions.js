@@ -36,10 +36,10 @@ window.QUESTIONS = [
     category: "Technology", difficulty: "medium",
     question: "What does the name 'Wi-Fi' actually stand for?",
     options: [
-      "Wireless Fidelity",
-      "Nothing — it's an invented brand name",
-      "Wireless Frequency",
-      "Wide-band Fidelity"
+      "'Wireless Fidelity', officially",
+      "Nothing; a made-up name",
+      "'Wireless Frequency'",
+      "'Wide-band Fidelity'"
     ],
     answer: 1,
     story: "Everyone assumes it means 'Wireless Fidelity,' but officially **it stands for nothing**. A branding firm coined 'Wi-Fi' in 1999 simply because it sounded catchy and echoed 'hi-fi.' A trade group briefly slapped on the tagline 'The Standard for Wireless Fidelity,' then dropped it. The real name is the far less friendly 'IEEE 802.11b.'"
@@ -91,10 +91,10 @@ window.QUESTIONS = [
     category: "Technology", difficulty: "easy",
     question: "Why do we 'boot up' a computer?",
     options: [
-      "From 'bootstrapping' — a program that pulls itself up by its own bootstraps",
+      "From 'bootstrapping'",
       "Early consoles were boot-shaped",
-      "You once had to kick the machine to start it",
-      "It's named after the Boot brothers who built the first PC"
+      "You once had to kick it to start it",
+      "After the Boot brothers who built the first PC"
     ],
     answer: 0,
     story: "Early computers faced a paradox: to load their software, they needed software already running. The fix was a tiny program that loads a bigger one that loads the whole system — like the impossible image of **pulling yourself up by your own bootstraps**, from an old tall tale. Shortened to 'booting,' it survives in the 'boot' sector and in 'rebooting.'"
@@ -103,7 +103,7 @@ window.QUESTIONS = [
     category: "Technology", difficulty: "medium",
     question: "Web 'cookies' — the little files that remember your login — got their name from...",
     options: [
-      "'Magic cookies,' an old term for a token passed between programs",
+      "'Magic cookies,' old data tokens",
       "The programmer's favourite snack",
       "An acronym: Client Object Ordered Key",
       "Their cookie-shaped icon"
@@ -116,8 +116,8 @@ window.QUESTIONS = [
     question: "Tetris was created in 1984 by Alexey Pajitnov while he was working for...",
     options: [
       "The Soviet Academy of Sciences",
-      "Nintendo of Japan",
-      "Atari",
+      "Nintendo's headquarters in Japan",
+      "The Atari corporation",
       "A university in Finland"
     ],
     answer: 0,
@@ -127,10 +127,10 @@ window.QUESTIONS = [
     category: "Technology", difficulty: "medium",
     question: "Douglas Engelbart's first computer mouse (1968) was made of...",
     options: [
-      "A hand-carved wooden shell with two metal wheels",
-      "Plastic with a rolling rubber ball",
+      "A carved wooden shell and two wheels",
+      "Moulded plastic with a rolling rubber ball",
       "A repurposed military trackball",
-      "Machined aluminium"
+      "Machined from aluminium"
     ],
     answer: 0,
     story: "In 'The Mother of All Demos,' Engelbart unveiled the mouse, on-screen windows, hypertext and video calls — decades early. His first mouse was a carved **wooden block with two perpendicular wheels**; he called it a 'mouse' because the cord trailed out like a tail. He never earned a cent in royalties — his patent expired before the mouse went mainstream."
@@ -155,10 +155,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "medium",
     question: "The mitochondria powering your cells were, over a billion years ago, most likely...",
     options: [
-      "Free-living bacteria that got swallowed and kept",
-      "Ancient viruses",
-      "Naturally forming crystals",
-      "Always part of the original cell"
+      "Bacteria that were swallowed and kept",
+      "Ancient invading viruses",
+      "Naturally forming mineral crystals",
+      "They were always part of the original cell"
     ],
     answer: 0,
     story: "Mitochondria have their own DNA, their own membranes, and divide on their own schedule — because they were once **independent bacteria**. The theory (championed by Lynn Margulis, long ridiculed) is that a larger cell engulfed one and, instead of digesting it, kept it as a power plant. That single merger made complex life possible — and it's why you inherit mitochondria only from your mother."
@@ -167,9 +167,9 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "medium",
     question: "The 'immortal jellyfish' (Turritopsis dohrnii) cheats death by...",
     options: [
-      "Reverting its adult cells back to an earlier life stage",
-      "Freezing itself solid",
-      "Endlessly cloning identical copies",
+      "Reverting its cells to a younger stage",
+      "Freezing itself completely solid",
+      "Endlessly cloning identical copies of itself",
       "Simply never ageing at all"
     ],
     answer: 0,
@@ -179,10 +179,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "hard",
     question: "In a giraffe, the recurrent laryngeal nerve reaches the voice box by way of...",
     options: [
-      "A detour of several metres down the neck and back up",
-      "The most direct possible route",
-      "A path through the tongue",
-      "The spinal cord"
+      "A several-metre detour down the neck",
+      "The shortest, most direct route",
+      "A winding path up through the tongue",
+      "Straight down through the spinal cord"
     ],
     answer: 0,
     story: "This nerve loops down around a major artery near the heart before returning up to the larynx — a layout inherited from fish, where it once made sense. In a giraffe that **detour runs several metres** to connect two points inches apart. It's a favourite proof of evolution's lack of foresight: selection can only tinker with what already exists."
@@ -191,10 +191,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "medium",
     question: "Horseshoe crab blood is bright blue and prized by medicine because it...",
     options: [
-      "Instantly detects bacterial contamination",
-      "Carries far more oxygen than ours",
-      "Never clots",
-      "Glows in the dark"
+      "It detects bacterial contamination",
+      "It carries far more oxygen than ours",
+      "It never clots, even in air",
+      "It glows brightly in the dark"
     ],
     answer: 0,
     story: "Their copper-based blood (blue, not iron-red) contains cells that clot around bacterial toxins. Pharma companies harvest it to make **'LAL,'** a test that screens vaccines, IV drugs and implants for contamination — including COVID vaccines. The crabs are returned to the sea, though many don't survive. A synthetic substitute now exists and is slowly easing the demand."
@@ -204,9 +204,9 @@ window.QUESTIONS = [
     question: "The gene-editing tool CRISPR was discovered by studying...",
     options: [
       "A bacterial immune system",
-      "Human cancer cells",
-      "Fruit-fly embryos",
-      "Glowing jellyfish"
+      "Human cancer cells in a dish",
+      "Fruit-fly embryo development",
+      "Glowing jellyfish proteins"
     ],
     answer: 0,
     story: "Long before it edited genes, CRISPR was **bacteria's defence system**: microbes snip out chunks of an attacking virus's DNA and file them away as mugshots, so they can recognise and shred that virus next time. Scientists realised this 'search-and-cut' machinery could be reprogrammed to edit any DNA — winning Doudna and Charpentier the 2020 Nobel Prize in Chemistry."
@@ -227,10 +227,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "medium",
     question: "Tardigrades ('water bears') survive being frozen, boiled and even blasted into open space by...",
     options: [
-      "Drying into a near-lifeless 'tun' state",
-      "Growing a protective shell",
+      "Drying into a 'tun' state",
+      "Growing a hard protective shell",
       "Photosynthesising for energy",
-      "Slowing their heartbeat"
+      "Slowing their heartbeat right down"
     ],
     answer: 0,
     story: "When conditions turn deadly, a tardigrade expels its water, curls into a dehydrated ball called a **'tun,'** and nearly halts its metabolism — replacing lost water with a glass-like sugar that shields its cells. In this state it has survived the vacuum and radiation of space, crushing deep-sea pressures, and temperatures near absolute zero. Add water and it walks away."
@@ -246,7 +246,7 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "easy",
     question: "Goosebumps are a leftover reflex that, in our furry ancestors, served to...",
     options: [
-      "Puff up fur for warmth or to look bigger",
+      "Puff up fur to trap warmth",
       "Cool the skin by sweating",
       "Repel biting insects",
       "Signal illness to the group"
@@ -300,9 +300,9 @@ window.QUESTIONS = [
     category: "Logic & Puzzles", difficulty: "medium",
     question: "In Zeno's paradox, swift Achilles can never overtake a tortoise with a head start because...",
     options: [
-      "Each time he reaches where it was, it has crept a little further",
-      "The tortoise is secretly faster",
-      "He grows tired",
+      "It keeps creeping a little further",
+      "The tortoise is secretly much faster",
+      "He grows too tired to run",
       "Distance can't be measured"
     ],
     answer: 0,
@@ -332,7 +332,12 @@ window.QUESTIONS = [
   {
     category: "Logic & Puzzles", difficulty: "hard",
     question: "Remove one grain from a heap of sand and it's still a heap; keep going and eventually it isn't. When did it stop? This is the...",
-    options: ["Sorites (heap) paradox", "Ship of Theseus", "Zeno's paradox", "Liar paradox"],
+    options: [
+      "Sorites, the heap paradox",
+      "The Ship of Theseus",
+      "Zeno's motion paradox",
+      "The classic liar's paradox"
+    ],
     answer: 0,
     story: "No single grain seems to mark the line between 'heap' and 'not a heap,' yet a thousand grains clearly differ from one. The **Sorites** paradox exposes how vague everyday words — 'heap,' 'bald,' 'tall' — resist sharp boundaries. It's not mere wordplay: it drives real debates in logic and law about drawing lines that reality leaves blurry."
   },
@@ -349,10 +354,10 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "medium",
     question: "The 'Wilhelm scream,' a stock sound effect film buffs love to spot, was first recorded for a scene involving...",
     options: [
-      "A man dragged underwater by an alligator",
-      "A rollercoaster",
-      "A haunted house",
-      "A car crash"
+      "A man dragged under by an alligator",
+      "A rider on a screaming rollercoaster",
+      "A haunted-house visitor",
+      "A violent car crash"
     ],
     answer: 0,
     story: "The yelp debuted in the 1951 Western 'Distant Drums,' used as a soldier is pulled under by an **alligator**, and was later named for a character called Private Wilhelm. Sound designer Ben Burtt rediscovered it and slipped it into Star Wars, Indiana Jones, Toy Story and hundreds more. Once you know it, you'll hear it everywhere — a decades-long inside joke among sound editors."
@@ -361,8 +366,8 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "hard",
     question: "The code 'A113' hidden in nearly every Pixar film refers to...",
     options: [
-      "A classroom at the California Institute of the Arts",
-      "Pixar's original office suite",
+      "An animation classroom at CalArts",
+      "The original Pixar office building",
       "A film-reel serial number",
       "John Lasseter's birthday"
     ],
@@ -373,9 +378,9 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "hard",
     question: "The 'Amen break,' a 6-second drum solo from a 1969 B-side, became the backbone of...",
     options: [
-      "Hip-hop, jungle and drum & bass",
-      "Disco",
-      "Grunge",
+      "Hip-hop and drum & bass",
+      "1970s disco and dance music",
+      "Grunge rock",
       "Reggaeton"
     ],
     answer: 0,
@@ -385,10 +390,10 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "medium",
     question: "In January 2024, the earliest version of which character entered the public domain?",
     options: [
-      "Mickey Mouse (the 1928 'Steamboat Willie' version)",
-      "Superman",
-      "Bugs Bunny",
-      "Batman"
+      "Mickey Mouse ('Steamboat Willie')",
+      "Superman, the original Man of Steel",
+      "Bugs Bunny, the rabbit",
+      "Batman, the Dark Knight"
     ],
     answer: 0,
     story: "Copyright on the 1928 short 'Steamboat Willie' finally expired, freeing that specific early **Mickey**. It was a milestone: fear of losing Mickey had helped drive decades of U.S. copyright extensions (critics nicknamed one the 'Mickey Mouse Protection Act'). Only the 1928 design is free — modern Mickey and the trademark still belong to Disney. Within days, horror films starring the vintage mouse were announced."
@@ -397,9 +402,9 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "medium",
     question: "Until 2016, the song 'Happy Birthday to You' was...",
     options: [
-      "Under copyright, earning about $2 million a year",
+      "Under copyright, earning millions",
       "Banned from television",
-      "Written by Paul McCartney",
+      "Secretly written by Paul McCartney",
       "Only legal to sing in the US"
     ],
     answer: 0,
@@ -421,9 +426,9 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "hard",
     question: "John Cage's 1952 composition '4′33″' consists of...",
     options: [
-      "Four minutes 33 seconds in which the performers play nothing",
-      "A single note held for 4 minutes",
-      "Only percussion",
+      "4'33\" of the players playing nothing",
+      "One single note held for four minutes",
+      "Only percussion instruments",
       "Recorded whale song"
     ],
     answer: 0,
@@ -440,10 +445,10 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "medium",
     question: "In 2014, the video 'Gangnam Style' forced YouTube to upgrade its systems because it...",
     options: [
-      "Blew past the maximum view count its counter could store",
-      "Crashed the video servers",
-      "Was flagged by every copyright bot",
-      "Was too long to load"
+      "It exceeded the counter's maximum",
+      "It crashed the video servers",
+      "It was flagged by every copyright bot",
+      "It was too long to load"
     ],
     answer: 0,
     story: "YouTube stored view counts as a 32-bit number, capping near **2.1 billion** — a limit nobody imagined a video reaching, until Psy's hit blew past it. YouTube announced, tongue in cheek, that it had upgraded to 64-bit counters, good for over 9 quintillion views. It's a rare case of a pop song literally breaking the internet's maths."
@@ -452,7 +457,7 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "easy",
     question: "One of cinema's most misquoted lines, from 'The Empire Strikes Back,' is actually...",
     options: [
-      "'No, I am your father' (not 'Luke, I am your father')",
+      "'No, I am your father'",
       "'Play it again, Sam'",
       "'Beam me up, Scotty'",
       "'Elementary, my dear Watson'"
@@ -485,7 +490,7 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "medium",
     question: "Gallium is a metal famous for...",
     options: [
-      "Melting in your hand (it liquefies around 30°C)",
+      "Melting in your warm hand",
       "Glowing bright green",
       "Exploding on contact with air",
       "Being the heaviest known metal"
@@ -497,9 +502,9 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "hard",
     question: "Chemist Fritz Haber has a stark dual legacy: his process to pull fertiliser from air feeds billions, but he also...",
     options: [
-      "Personally pioneered poison-gas warfare in WWI",
-      "Invented dynamite",
-      "Falsified the periodic table",
+      "Pioneered poison-gas warfare",
+      "He also invented dynamite",
+      "Falsified the whole periodic table",
       "Discovered radioactivity"
     ],
     answer: 0,
@@ -521,10 +526,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "hard",
     question: "During WWII, chemist George de Hevesy hid two Nobel Prize gold medals from the Nazis by...",
     options: [
-      "Dissolving them in acid on an open shelf",
+      "Dissolving them in acid",
       "Burying them in a garden",
       "Melting them into ordinary coins",
-      "Posting them abroad"
+      "Posting them safely abroad"
     ],
     answer: 0,
     story: "To stop the Nazis seizing (and tracing) the medals of two German physicists, de Hevesy **dissolved them in aqua regia** — a mix of acids that eats gold — leaving an unremarkable orange liquid on a shelf that sat untouched through the occupation. Afterward the gold was chemically recovered and the Nobel Foundation recast the medals. Chemistry as quiet resistance."
@@ -533,10 +538,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "hard",
     question: "Gold has a warm colour while most metals are silvery-grey. The reason is...",
     options: [
-      "Einstein's relativity acting on its fast inner electrons",
-      "Traces of copper impurity",
-      "Its cubic crystal shape",
-      "A thin layer of rust"
+      "Relativity, acting on its electrons",
+      "Tiny traces of copper impurity in it",
+      "The shape of its crystals",
+      "A thin surface layer of rust"
     ],
     answer: 0,
     story: "In heavy atoms like gold, inner electrons orbit at a large fraction of light-speed. **Relativity** makes them behave as if heavier, shifting energy levels so gold absorbs blue light and reflects yellow-red — its signature glow. The same effect helps explain why mercury is liquid. It's one of the few places you can literally see Einstein's physics."
@@ -545,10 +550,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "medium",
     question: "That earthy smell after rain, called 'petrichor,' comes largely from...",
     options: [
-      "A compound (geosmin) made by soil bacteria",
-      "Ozone from lightning",
-      "Pollen bursting open",
-      "Wet concrete"
+      "Geosmin, made by soil bacteria",
+      "Ozone created by lightning",
+      "Pollen grains bursting in the air",
+      "Rain hitting wet concrete"
     ],
     answer: 0,
     story: "Much of the scent is **geosmin**, produced by soil bacteria and flung into the air when raindrops hit the ground. Our noses are astonishingly sensitive to it — we can detect a few parts per trillion, better than a shark smells blood. The word 'petrichor' was coined in 1964 from Greek for 'stone' and the 'ichor' said to flow in the gods' veins."
@@ -564,10 +569,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "medium",
     question: "The phrase 'mad as a hatter' most likely comes from...",
     options: [
-      "Mercury poisoning among felt hat-makers",
+      "Mercury poisoning in hat-makers",
       "A real hat-shop owner named Mad",
       "Lewis Carroll inventing it whole",
-      "The heat of hat-drying ovens"
+      "The heat of the hat-drying ovens"
     ],
     answer: 0,
     story: "Felt hatmakers once used **mercury** compounds to mat animal fur into felt. Chronic exposure to the fumes attacked their nervous systems — tremors, slurred speech, irritability, hallucinations — the 'hatter's shakes.' The condition was well known before Lewis Carroll's Mad Hatter (whom he never actually calls 'mad'). Mercury felting wasn't banned in the US until 1941."
@@ -576,10 +581,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "medium",
     question: "Teflon, the non-stick coating, was discovered...",
     options: [
-      "By accident, when a canister of gas mysteriously 'vanished'",
-      "In a deliberate search for better cookware",
-      "In wartime armour research",
-      "Aboard a NASA mission"
+      "By accident, from a 'vanished' gas",
+      "In a deliberate hunt for better cookware",
+      "During wartime armour research",
+      "Aboard an early NASA mission"
     ],
     answer: 0,
     story: "In 1938, DuPont chemist Roy Plunkett opened a canister of refrigerant gas expecting a whoosh — but nothing came out, though it still weighed full. The gas had **spontaneously turned to a waxy solid** so slippery almost nothing stuck to it. First used in the Manhattan Project to handle corrosive uranium compounds, Teflon only reached frying pans years later."
@@ -630,7 +635,7 @@ window.QUESTIONS = [
     category: "History", difficulty: "hard",
     question: "Tsutomu Yamaguchi holds a grim distinction as an officially recognised survivor of...",
     options: [
-      "Both atomic bombs — Hiroshima and Nagasaki",
+      "Both atomic bombs, days apart",
       "The Titanic and the Lusitania",
       "Two separate volcanic eruptions",
       "Both World Wars' front lines"
@@ -656,10 +661,10 @@ window.QUESTIONS = [
     category: "History", difficulty: "easy",
     question: "The claim that the Great Wall of China is the only human-made object visible from space with the naked eye is...",
     options: [
-      "A myth — you can't pick it out from orbit",
-      "True from low orbit",
-      "True only from the Moon",
-      "True at night"
+      "A myth; you can't see it from orbit",
+      "True from low Earth orbit",
+      "True, but only from the Moon's surface",
+      "True only at night"
     ],
     answer: 0,
     story: "The Wall is long but only a few metres wide, and roughly the same colour as its surroundings. Astronauts have repeatedly confirmed you **can't** single it out with the naked eye from orbit, let alone the Moon. Ironically, city lights, runways and greenhouses are far easier to spot. The myth even predates human spaceflight — it was in print by the 1930s."
@@ -675,10 +680,10 @@ window.QUESTIONS = [
     category: "History", difficulty: "hard",
     question: "The event that helped ignite the Thirty Years' War (1618) is literally named for the act of...",
     options: [
-      "Throwing officials out of a window",
-      "Poisoning a king",
-      "Burning a peace treaty",
-      "Storming a cathedral"
+      "Throwing officials out a window",
+      "Poisoning a king at dinner",
+      "Publicly burning a signed peace treaty",
+      "Storming the city cathedral"
     ],
     answer: 0,
     story: "Protestant nobles, furious with Catholic regents, **hurled two royal officials out of a third-storey window** of Prague Castle — a 'defenestration.' Remarkably, all three survived the ~70-foot fall; Catholics credited angels, Protestants noted they landed in a large dung heap. The insult helped touch off the Thirty Years' War, one of history's deadliest conflicts."
@@ -694,10 +699,10 @@ window.QUESTIONS = [
     category: "History", difficulty: "hard",
     question: "In 897 AD, Pope Stephen VI put on trial and convicted...",
     options: [
-      "The exhumed corpse of a previous pope",
+      "The dug-up corpse of a past pope",
       "A living rival bishop",
-      "A stone statue",
-      "A heretical book"
+      "A carved marble statue of a saint",
+      "A book of heresy"
     ],
     answer: 0,
     story: "In the macabre 'Cadaver Synod,' Stephen VI had the **rotting body of his predecessor Formosus** dug up, dressed in papal robes, propped on a throne, and tried for various offences. Found guilty, the corpse had its blessing fingers hacked off and was thrown in the Tiber. The spectacle so revolted Rome that Stephen was soon imprisoned and strangled."
@@ -708,10 +713,10 @@ window.QUESTIONS = [
     category: "Internet", difficulty: "medium",
     question: "The first message ever sent over ARPANET (1969), the internet's ancestor, was...",
     options: [
-      "'LO' — the system crashed mid-word while typing 'LOGIN'",
-      "'HELLO WORLD'",
-      "'TEST'",
-      "The '@' symbol"
+      "'LO' — it crashed mid-word",
+      "The greeting 'HELLO, WORLD'",
+      "'TESTING, 1 2 3'",
+      "A single '@' symbol"
     ],
     answer: 0,
     story: "On 29 October 1969, a student at UCLA tried to log in to a computer at Stanford by typing 'LOGIN.' The system **crashed after the first two letters** — so the very first thing transmitted across the network that became the internet was simply 'LO.' As programmer Charley Kline noted, it made an accidental but fitting 'Lo!' — as in 'lo and behold.'"
@@ -719,7 +724,12 @@ window.QUESTIONS = [
   {
     category: "Internet", difficulty: "medium",
     question: "The first item ever sold on eBay (1995) was...",
-    options: ["A broken laser pointer", "A Beanie Baby", "A used car", "A comic book"],
+    options: [
+      "A broken laser pointer",
+      "A rare collectible Beanie Baby",
+      "A second-hand used car",
+      "A vintage comic book"
+    ],
     answer: 0,
     story: "Founder Pierre Omidyar listed a **broken laser pointer** as a test and was stunned when it sold for $14.83. He emailed the buyer to be sure he understood it was broken. The reply: 'I'm a collector of broken laser pointers.' That bizarre exchange convinced Omidyar there was a market for nearly anything — and eBay was born."
   },
@@ -770,10 +780,10 @@ window.QUESTIONS = [
     category: "Internet", difficulty: "easy",
     question: "'Rickrolling' tricks someone into clicking a link to which 1987 music video?",
     options: [
-      "Rick Astley — 'Never Gonna Give You Up'",
-      "Toto — 'Africa'",
-      "a-ha — 'Take On Me'",
-      "Eurythmics — 'Sweet Dreams'"
+      "Rick Astley's 'Never Gonna Give You Up'",
+      "Toto's 1982 hit 'Africa'",
+      "a-ha's 'Take On Me' video",
+      "Eurythmics' 'Sweet Dreams (Are Made of This)'"
     ],
     answer: 0,
     story: "The prank grew from a 2007 4chan bait-and-switch that linked, unexpectedly, to Rick Astley's earnest 1987 hit **'Never Gonna Give You Up.'** It became one of the internet's most enduring gags — used on YouTube, in Congress, even by the White House. Astley, once bemused, has embraced it, even Rickrolling a live crowd himself."
@@ -783,9 +793,9 @@ window.QUESTIONS = [
     question: "The world's first website, built by Tim Berners-Lee in 1991, was about...",
     options: [
       "The World Wide Web project itself",
-      "CERN's cafeteria menu",
+      "The CERN staff cafeteria lunch menu",
       "A list of physics equations",
-      "His personal diary"
+      "His own personal diary"
     ],
     answer: 0,
     story: "Fittingly, the first website explained **what the Web was** and how to use it — a web page about the web. Berners-Lee built it at CERN on a NeXT computer wearing a handwritten label: 'This machine is a server. DO NOT POWER IT DOWN.' CERN has since restored the original page at its first address, still viewable today."
@@ -794,10 +804,10 @@ window.QUESTIONS = [
     category: "Internet", difficulty: "hard",
     question: "The first documented emoticon, :-) posted in 1982, was proposed by Scott Fahlman to...",
     options: [
-      "Mark jokes so they wouldn't be misread",
-      "Save keystrokes",
-      "Test a new font",
-      "Encode moods in binary"
+      "To flag jokes as jokes",
+      "To save keystrokes",
+      "To test a new font",
+      "To encode moods in binary"
     ],
     answer: 0,
     story: "On a Carnegie Mellon message board, misread sarcasm kept causing confusion. Fahlman suggested **:-) to flag jokes** and :-( for serious posts. The sideways smiley spread across early networks and, decades later, seeded the emoji we now send billions of times a day. The original 1982 post was eventually recovered from old backup tapes."
@@ -827,10 +837,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "hard",
     question: "Göbekli Tepe in Turkey, with its massive carved stone pillars, is roughly 11,000 years old — meaning it predates...",
     options: [
-      "Farming, pottery, the wheel and writing — all of them",
-      "Only the pyramids",
-      "Only Stonehenge",
-      "Nothing; it came after farming"
+      "Farming, the wheel and writing alike",
+      "Only the Egyptian pyramids",
+      "Only Britain's Stonehenge",
+      "Nothing; it actually postdates farming"
     ],
     answer: 0,
     story: "Built by hunter-gatherers around 9500 BC, Göbekli Tepe is older than **agriculture, pottery, metal tools, the wheel and writing** — and predates Stonehenge and the pyramids by millennia. Its T-shaped megaliths, some weighing tons, hint that organised religion may have come *before* settled farming, upending the old story that farms came first and temples followed."
@@ -839,10 +849,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "medium",
     question: "The Antikythera mechanism, recovered from a ~2,000-year-old Greek shipwreck, functioned as a...",
     options: [
-      "Hand-cranked astronomical computer",
-      "Water clock",
-      "Navigation compass",
-      "Musical automaton"
+      "A geared astronomical computer",
+      "A water clock for temples",
+      "A ship's magnetic navigation compass",
+      "A wind-up musical automaton"
     ],
     answer: 0,
     story: "Divers found the corroded bronze lump in 1901. Decades of imaging revealed at least 30 interlocking gears modelling the Sun, Moon and planets, predicting eclipses, and even tracking the four-year Olympic cycle. Nothing of comparable complexity appears again for **over a thousand years** — earning it the title of the world's first known analog computer."
@@ -863,10 +873,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "medium",
     question: "The oldest known written customer complaint, on a ~3,800-year-old Babylonian tablet, is about...",
     options: [
-      "A merchant delivering low-grade copper",
-      "Unpaid taxes",
-      "A broken chariot",
-      "Spoiled grain"
+      "A merchant's low-grade copper",
+      "A dispute over unpaid taxes",
+      "A war chariot that broke",
+      "A delivery of rotten, spoiled grain"
     ],
     answer: 0,
     story: "A customer named Nanni inscribed a furious complaint to a copper dealer, **Ea-nasir**, about sub-standard metal and rude treatment. The tablet, now in the British Museum, has made Ea-nasir perhaps history's most infamous bad businessman — roasted in internet memes nearly four millennia later. Other complaint tablets found in his house suggest he had a pattern."
@@ -882,10 +892,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "hard",
     question: "The Library of Alexandria's loss of knowledge is best described as...",
     options: [
-      "A slow decline over centuries, not one great fire",
-      "A single night's blaze",
-      "Destroyed by an earthquake in a day",
-      "Never actually lost"
+      "A slow decline over centuries",
+      "A single catastrophic night's blaze",
+      "An earthquake that razed it in a day",
+      "It was never really lost at all"
     ],
     answer: 0,
     story: "Popular imagination pictures the ancient world's knowledge vanishing in one apocalyptic blaze. Historians suspect the reality was slower and sadder: budget cuts, expelled scholars, **several partial fires** (including one Julius Caesar accidentally started), and centuries of neglect. The 'burning of the library' is less an event than a symbol for the fragile, cumulative loss of knowledge."
@@ -894,10 +904,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "medium",
     question: "Ötzi the Iceman, a 5,300-year-old mummy found melting from an Alpine glacier in 1991, died from...",
     options: [
-      "An arrowhead in the shoulder — he was murdered",
-      "Freezing in his sleep",
-      "A fall from a cliff",
-      "Old age"
+      "An arrow wound to the shoulder",
+      "Exposure — he froze in his sleep",
+      "A fatal fall down a cliff face",
+      "A sudden illness in old age"
     ],
     answer: 0,
     story: "Two hikers found Ötzi's astonishingly preserved body. Scientists have read his life in detail — his last meals, his 61 tattoos, his tools, even his risk of heart disease. A CT scan revealed an **arrowhead lodged in his shoulder**: he was shot from behind and bled out, making him one of history's oldest known murder victims."
@@ -907,9 +917,9 @@ window.QUESTIONS = [
     question: "The ~2,000-year-old 'Baghdad Battery,' a clay jar with a copper cylinder and iron rod, is debated because it might have been...",
     options: [
       "A simple electric cell",
-      "A cooking pot",
-      "A child's toy",
-      "A sundial base"
+      "An ordinary cooking pot",
+      "A child's clay toy",
+      "The base of a sundial"
     ],
     answer: 0,
     story: "Filled with an acid like vinegar, the jar can produce about **one volt**, leading some to wonder if ancient people generated electricity, perhaps for electroplating. Most archaeologists are sceptical, suspecting it merely held sacred scrolls that dissolved away. Battery or storage jar, it remains one of archaeology's most tantalising question marks."
@@ -930,10 +940,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "medium",
     question: "The Rosetta Stone unlocked Egyptian hieroglyphs because it carried the same decree in...",
     options: [
-      "Three scripts, one of them ancient Greek",
-      "Pure gold lettering",
-      "A secret priestly code",
-      "Pictures with no text"
+      "Three scripts, including Greek",
+      "Text written in pure gold leaf",
+      "A secret code known only to priests",
+      "Pictures alone, with no writing"
     ],
     answer: 0,
     story: "Carved in 196 BC, the stone repeats one royal decree in hieroglyphic, demotic and **ancient Greek**. Since scholars could still read Greek, it gave them a crib to crack the long-silent hieroglyphs. After a fierce rivalry, Jean-François Champollion deciphered them in 1822, reopening 3,000 years of Egyptian writing. Napoleon's soldiers had found the stone while digging a fort."
@@ -983,7 +993,12 @@ window.QUESTIONS = [
   {
     category: "Space", difficulty: "medium",
     question: "Astronauts returning from spacewalks report that space smells like...",
-    options: ["Seared steak or spent gunpowder", "Fresh roses", "Nothing at all", "The sea"],
+    options: [
+      "Seared steak or spent gunpowder",
+      "Sweet, fresh roses in full bloom",
+      "Nothing at all",
+      "The salty sea"
+    ],
     answer: 0,
     story: "You can't smell the vacuum directly, but a distinct odour clings to suits and airlocks after a spacewalk — often described as **seared steak, hot metal, or gunpowder**. It's thought to come from high-energy compounds drifting in space. Apollo astronauts said moon dust, tracked into the lander, smelled like spent gunpowder too."
   },
@@ -1005,10 +1020,10 @@ window.QUESTIONS = [
     category: "Space", difficulty: "medium",
     question: "Olympus Mons on Mars, the tallest known volcano in the solar system, is about...",
     options: [
-      "Two and a half times the height of Mount Everest",
+      "About 2.5 times Everest's height",
       "The same height as Everest",
       "Half the height of Everest",
-      "Ten times the height of Everest"
+      "Fully ten times the height of Everest"
     ],
     answer: 0,
     story: "Olympus Mons rises about 22 km — nearly **three times Everest** — and sprawls across an area the size of Poland. With no shifting tectonic plates, a single Martian volcano could sit over a hot spot and grow for eons. Its slopes are so gentle and its base so wide that, standing on it, you couldn't even see the summit over the horizon."
@@ -1024,10 +1039,10 @@ window.QUESTIONS = [
     category: "Space", difficulty: "hard",
     question: "A little of the 'snow' (static) on old analog TVs between channels came from...",
     options: [
-      "The cosmic microwave background — the Big Bang's afterglow",
-      "Sunspots",
+      "The cosmic microwave background",
+      "Solar sunspot activity",
       "Nearby radio towers",
-      "The TV's own circuits only"
+      "The TV set's own internal circuits"
     ],
     answer: 0,
     story: "Tune an old analog TV to a dead channel and a small share of that fuzz came from the **cosmic microwave background** — faint radiation from about 380,000 years after the Big Bang, now stretched to microwaves that fill all of space. You were, in a real sense, watching the leftover glow of the universe's birth in your living room."
@@ -1036,8 +1051,8 @@ window.QUESTIONS = [
     category: "Space", difficulty: "medium",
     question: "The Voyager probes, now in interstellar space, each carry a golden record containing...",
     options: [
-      "Sounds and images of Earth for any finder",
-      "The probe's own blueprints",
+      "Sounds and images of Earth",
+      "The probe's own technical blueprints",
       "Solid gold bullion",
       "A map to Earth's defences"
     ],
@@ -1048,7 +1063,7 @@ window.QUESTIONS = [
     category: "Space", difficulty: "hard",
     question: "The red supergiant star Betelgeuse is so far away that if it exploded as a supernova...",
     options: [
-      "It may already have done so and we wouldn't know yet",
+      "It may already have happened",
       "Earth would be destroyed",
       "We'd feel it the same instant",
       "It would simply vanish silently"
@@ -1067,10 +1082,10 @@ window.QUESTIONS = [
     category: "Space", difficulty: "hard",
     question: "The exoplanet 55 Cancri e is nicknamed the 'diamond planet' because it may be rich in...",
     options: [
-      "Carbon (possibly crystallised into diamond)",
-      "Solid gold",
-      "Pure water ice",
-      "Uranium"
+      "Carbon, perhaps as diamond",
+      "Solid, gleaming bars of gold",
+      "Frozen pure water ice",
+      "Radioactive uranium"
     ],
     answer: 0,
     story: "Early studies suggested this scorching super-Earth might be **carbon-rich** enough that much of its interior could be graphite and diamond. Later data muddied the picture, but 55 Cancri e stays bizarre: so close to its star that a year lasts just 18 hours, with a surface that may be a churning ocean of lava."
@@ -1126,10 +1141,10 @@ window.QUESTIONS = [
     category: "Finance", difficulty: "medium",
     question: "The '$' dollar sign most likely evolved from...",
     options: [
-      "The Spanish peso ('pieces of eight')",
-      "The letters U and S overlaid",
-      "A serpent on a staff",
-      "The British pound symbol"
+      "The Spanish 'pieces of eight' peso",
+      "The letters U and S laid over each other",
+      "A serpent coiled on a staff",
+      "The old British pound symbol"
     ],
     answer: 0,
     story: "The leading theory traces '$' to the Spanish **peso**, which circulated widely in early America. Clerks abbreviated pesos as 'Ps,' and over time the P and s merged into a single stroked mark. So the American dollar sign is really a ghost of Spanish colonial silver — the tidy 'U over S' story is a charming myth."
@@ -1138,10 +1153,10 @@ window.QUESTIONS = [
     category: "Finance", difficulty: "hard",
     question: "A persistent (mostly false) legend says Nathan Rothschild made a fortune in 1815 by...",
     options: [
-      "Getting early word of Napoleon's defeat at Waterloo",
+      "Early news of the Waterloo result",
       "Printing counterfeit banknotes",
-      "Robbing the Bank of England",
-      "Betting on the weather"
+      "Secretly robbing the Bank of England",
+      "Betting heavily on the weather"
     ],
     answer: 0,
     story: "The tale claims Rothschild learned of **Waterloo** first, tricked traders into selling, then bought cheap and cleaned up. Historians find scant evidence he profited hugely, and the story was later embellished by antisemitic propaganda. It survives as finance's most famous 'information is money' myth — fiction wrapped around the kernel of a real courier network."
@@ -1157,10 +1172,10 @@ window.QUESTIONS = [
     category: "Finance", difficulty: "medium",
     question: "The stock-market terms 'bull' and 'bear' may come from the way each animal...",
     options: [
-      "Attacks — a bull thrusts its horns up, a bear swipes down",
-      "Runs — bulls are fast, bears slow",
-      "Sleeps through winter",
-      "Was traded at old fairs"
+      "A bull tosses up; a bear swipes down",
+      "Bulls run fast, bears run slowly",
+      "One hibernates through the winter",
+      "Both were once traded at country fairs"
     ],
     answer: 0,
     story: "One popular explanation: a bull strikes by thrusting its horns **upward** (a rising market), while a bear swipes its paws **downward** (a falling one). 'Bear' likely came first, from a proverb about selling 'the bearskin before catching the bear' — i.e., selling shares you don't yet own, betting prices will drop. Bulls were paired on as the natural opposite."
@@ -1177,9 +1192,9 @@ window.QUESTIONS = [
     question: "The story that Manhattan was 'bought' in 1626 for about $24 in goods is most often used to illustrate...",
     options: [
       "The power of compound interest",
-      "Colonial property law",
-      "Currency exchange rates",
-      "Housing bubbles"
+      "Old colonial property law",
+      "Shifting currency exchange rates",
+      "Speculative housing bubbles"
     ],
     answer: 0,
     story: "Dutch official Peter Minuit reportedly acquired Manhattan for trade goods later mythologised as '$24.' Economists love noting that invested at a modest **compound interest** rate for ~400 years, that sum would now exceed the value of all Manhattan's real estate — a vivid lesson in how relentlessly compounding grows. (The real deal was murkier, and the local tribe may not have claimed to 'own' the land at all.)"
@@ -1190,9 +1205,9 @@ window.QUESTIONS = [
     category: "Politics", difficulty: "medium",
     question: "The word 'gerrymandering' combines a governor's name with...",
     options: [
-      "A salamander (the shape of a rigged district)",
-      "A mythical lizard",
-      "A river that split a state",
+      "A salamander's twisted shape",
+      "A mythical fire lizard",
+      "A river that split the state in two",
       "A type of sea monster"
     ],
     answer: 0,
@@ -1202,7 +1217,7 @@ window.QUESTIONS = [
     category: "Politics", difficulty: "medium",
     question: "The political terms 'left' and 'right' originally came from...",
     options: [
-      "Where factions sat in France's revolutionary assembly",
+      "Where they sat in the French assembly",
       "Which hand people wrote with",
       "Ancient Roman military ranks",
       "The wings of a famous parliament building"
@@ -1247,9 +1262,9 @@ window.QUESTIONS = [
     category: "Politics", difficulty: "hard",
     question: "To set the record for the longest solo Senate speech (over 24 hours in 1957), Strom Thurmond reportedly prepared by...",
     options: [
-      "Taking steam baths to dehydrate himself",
+      "Taking steam baths to dehydrate",
       "Memorising the phone book",
-      "Sleeping for two days straight",
+      "Sleeping for two full days straight",
       "Drinking gallons of coffee"
     ],
     answer: 0,
@@ -1281,7 +1296,12 @@ window.QUESTIONS = [
   {
     category: "General Knowledge", difficulty: "easy",
     question: "Archaeologists have found pots of honey in ancient Egyptian tombs that were still...",
-    options: ["Perfectly edible after 3,000+ years", "Turned to solid stone", "Toxic", "Completely evaporated"],
+    options: [
+      "Perfectly edible after 3,000 years",
+      "Turned into solid stone",
+      "Poisonous and unsafe to eat",
+      "Completely dried out and evaporated away"
+    ],
     answer: 0,
     story: "Honey's low moisture, high acidity and trace hydrogen peroxide make it hostile to the microbes that spoil food, so sealed honey essentially **never goes off**. Explorers of Egyptian tombs have reportedly found 3,000-year-old honey still good to eat. Stored properly, it may be the only food that lasts effectively forever."
   },
@@ -1343,9 +1363,9 @@ window.QUESTIONS = [
     category: "General Knowledge", difficulty: "easy",
     question: "Flamingos are born grey and turn pink because of...",
     options: [
-      "Pigments in the shrimp and algae they eat",
-      "Exposure to sunlight",
-      "Their age",
+      "Pigments in the food they eat",
+      "Long exposure to sunlight",
+      "Simply their age",
       "The mineral content of the water"
     ],
     answer: 0,
@@ -1354,7 +1374,12 @@ window.QUESTIONS = [
   {
     category: "General Knowledge", difficulty: "medium",
     question: "A group of flamingos is delightfully called a...",
-    options: ["Flamboyance", "Flush", "Pod", "Murder"],
+    options: [
+      "Flamboyance",
+      "Parliament",
+      "Murmuration",
+      "Conspiracy"
+    ],
     answer: 0,
     story: "English collective nouns get wonderfully strange: flamingos form a **'flamboyance,'** crows a 'murder,' owls a 'parliament,' and jellyfish a 'smack.' Many trace to a 15th-century list in the Book of St Albans, where nobles seemingly competed to coin the most poetic — and sometimes the most tongue-in-cheek — group names."
   },
@@ -1362,10 +1387,10 @@ window.QUESTIONS = [
     category: "General Knowledge", difficulty: "hard",
     question: "The human body actually emits a faint visible glow, but we never see it because...",
     options: [
-      "It's about 1,000 times too dim for our eyes",
-      "It's pure infrared",
+      "It's ~1,000 times too dim to see",
+      "It's actually pure infrared light",
       "It only happens during sleep",
-      "It's just a myth"
+      "It's just a myth, in fact"
     ],
     answer: 0,
     story: "Our bodies genuinely give off a tiny amount of visible light — a by-product of metabolic reactions involving free radicals. Japanese researchers confirmed it in 2009 with ultra-sensitive cameras, but the glow is about **1,000 times weaker** than our eyes can detect. It rises and falls through the day, peaking in late afternoon, and is brightest around the cheeks and forehead."
@@ -1376,10 +1401,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "Airplane windows are rounded rather than square because of...",
     options: [
-      "Deadly 1950s crashes caused by square windows",
-      "Simple manufacturing cost",
+      "1950s crashes from square windows",
+      "Cheaper, simpler manufacturing cost",
       "Passenger preference",
-      "Better views"
+      "They give a better view out"
     ],
     answer: 0,
     story: "The de Havilland Comet, the first jetliner, had square windows. In 1954 two Comets tore apart in mid-air. Investigators found the **sharp corners concentrated stress** from repeated cabin pressurisation, cracking the metal until the fuselage ripped open. Curved windows spread the stress evenly. Every airliner since has rounded windows — a direct legacy of those disasters."
@@ -1395,10 +1420,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "hard",
     question: "The word 'jaywalking' was popularised in the 1920s largely by...",
     options: [
-      "The auto industry, to blame pedestrians for crashes",
+      "Carmakers blaming pedestrians",
       "Traffic police unions",
-      "A popular comic strip",
-      "City planners"
+      "A popular newspaper comic strip",
+      "Early city planners"
     ],
     answer: 0,
     story: "As cars flooded cities and killed pedestrians, public fury threatened to restrict automobiles. The **auto industry** fought back with a PR push to shift blame onto walkers, popularising 'jaywalker' — 'jay' being 1920s slang for a clueless bumpkin. They recast the street as belonging to cars, and crossing 'wrong' as foolish. It worked: jaywalking became a crime."
@@ -1431,8 +1456,8 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "Ships measure speed in 'knots' because sailors once gauged it by...",
     options: [
-      "Counting knots on a rope trailed behind the ship",
-      "The thickness of the ship's ropes",
+      "Counting knots on a trailing rope",
+      "The thickness of the ship's main ropes",
       "Tying a knot each hour of travel",
       "A knotted signal flag"
     ],
@@ -1443,10 +1468,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "The world's first speeding ticket (England, 1896) was issued to a driver going...",
     options: [
-      "About 8 mph (in a 2 mph zone)",
-      "Around 60 mph",
+      "About 8 mph, in a 2 mph zone",
+      "Around 60 mph, on a country road",
       "About 30 mph",
-      "Over 100 mph"
+      "Well over 100 mph"
     ],
     answer: 0,
     story: "Walter Arnold was caught doing roughly **8 mph** where the limit was 2 mph — and chased down by a policeman on a bicycle. He was fined a shilling. Comically slow by today's standards, but four times the legal limit then. Arnold earned the dubious honour of history's first speeding fine, an early chapter in humanity's long, doomed effort to make drivers slow down."
@@ -1455,10 +1480,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "hard",
     question: "The Boeing 747's distinctive upstairs 'hump' exists because the plane was designed to easily become a...",
     options: [
-      "Cargo freighter with a nose that swings open",
-      "Double-decker cruise liner",
-      "Military bomber",
-      "Flying hotel"
+      "A nose-loading cargo freighter",
+      "A double-decker passenger liner",
+      "A military bomber",
+      "A luxury flying hotel"
     ],
     answer: 0,
     story: "In the 1960s, many assumed supersonic jets would soon replace big subsonic planes for passengers. So Boeing designed the 747 to convert to **cargo hauling**, lifting the cockpit onto a hump so the whole nose could hinge open to load freight. Supersonic travel never took over — but the hump, originally a hedge against obsolescence, became the 747's iconic silhouette."
@@ -1467,9 +1492,9 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "hard",
     question: "The shift to driving on the right (in places like the US) was pushed largely by...",
     options: [
-      "Teamsters riding the left-rear horse of big freight wagons",
-      "A decree from Napoleon alone",
-      "Early railroad companies",
+      "Wagon drivers riding the left horse",
+      "One sweeping decree from Napoleon himself",
+      "The early railroad companies",
       "Bicycle manufacturers"
     ],
     answer: 0,
@@ -1479,10 +1504,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "hard",
     question: "The Titanic actually carried more lifeboats than the law required, because regulations were based on...",
     options: [
-      "A ship's tonnage, not its passenger count",
+      "Its tonnage, not its passengers",
       "The number of decks",
       "The ship's top speed",
-      "The length of the voyage"
+      "The total number of decks it had"
     ],
     answer: 0,
     story: "Titanic had lifeboat room for about 1,178 people but carried over 2,200 — and still **exceeded** the legal minimum. British rules set lifeboat capacity by a ship's **tonnage**, using a table that maxed out at 10,000 tons; Titanic was over 46,000. The rules hadn't kept up with ballooning ship sizes. The disaster forced an overhaul requiring a seat for every soul aboard."
@@ -1491,10 +1516,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "The 1950s invention that quietly powered globalisation more than any trade treaty was...",
     options: [
-      "The standardised shipping container",
+      "The shipping container",
       "The jet engine",
-      "The barcode",
-      "The oil supertanker"
+      "The retail barcode",
+      "The giant oil supertanker"
     ],
     answer: 0,
     story: "Trucking entrepreneur Malcolm McLean, tired of watching dockers unload loose cargo piece by piece, shipped goods in **standard steel boxes** that moved seamlessly from ship to truck to train. It cut loading costs by over 90% and made modern global supply chains possible. The humble container arguably reshaped the world economy more than any single policy."
@@ -1505,9 +1530,9 @@ window.QUESTIONS = [
     category: "Language", difficulty: "medium",
     question: "The word 'OK' most likely began life as...",
     options: [
-      "A jokey 1830s abbreviation of 'oll korrect'",
+      "An 1830s joke for 'oll korrect'",
       "A Native American word",
-      "A Civil War tally of '0 killed'",
+      "A Civil War tally meaning '0 killed'",
       "A shipping-crate stamp"
     ],
     answer: 0,
@@ -1517,8 +1542,8 @@ window.QUESTIONS = [
     category: "Language", difficulty: "medium",
     question: "The word 'quarantine' comes from the Italian for 'forty' because...",
     options: [
-      "Plague-era ships had to wait 40 days before landing",
-      "Forty was a sacred number",
+      "Plague ships had to wait 40 days",
+      "Forty was believed a sacred number",
       "There were 40 known plagues",
       "Ports lay 40 miles apart"
     ],
@@ -1529,8 +1554,8 @@ window.QUESTIONS = [
     category: "Language", difficulty: "medium",
     question: "The word 'salary' is tied to 'salt' because...",
     options: [
-      "Roman soldiers were paid an allowance connected to salt",
-      "Salt tasted salty, like sweat from work",
+      "Roman soldiers got a salt allowance",
+      "Salt tasted salty, like the sweat of hard work",
       "Salt mines paid the first wages",
       "It's pure coincidence"
     ],
@@ -1540,7 +1565,12 @@ window.QUESTIONS = [
   {
     category: "Language", difficulty: "medium",
     question: "The word 'sinister' originally simply meant...",
-    options: ["'Left' (as in the left side)", "'Evil'", "'Hidden'", "'Dark'"],
+    options: [
+      "'Left', as in the left side",
+      "'Evil' or wicked",
+      "'Hidden' or concealed from view",
+      "'Dark' or gloomy"
+    ],
     answer: 0,
     story: "In Latin, **'sinister' meant 'left'** (and 'dexter' meant 'right'). The left side was long viewed with suspicion — linked to bad omens and clumsiness — so 'sinister' drifted toward 'evil.' The bias lingers in English: 'dexterous' (right-handed, skilful) flatters, while 'sinister' does the opposite."
   },
@@ -1548,10 +1578,10 @@ window.QUESTIONS = [
     category: "Language", difficulty: "hard",
     question: "The '-mare' in 'nightmare' originally referred to...",
     options: [
-      "A demon believed to sit on sleepers' chests",
+      "A demon that crushed sleepers",
       "A female horse",
       "The open sea",
-      "The darkness itself"
+      "The deep darkness of the night"
     ],
     answer: 0,
     story: "In Germanic folklore a 'mare' was an evil spirit that **perched on a sleeper's chest**, causing a crushing, suffocating dread — likely a folk account of sleep paralysis. So a 'night-mare' was this night-demon, not a bad dream in general; only later did the meaning broaden. The horse 'mare' is an unrelated coincidence."
@@ -1573,7 +1603,12 @@ window.QUESTIONS = [
   {
     category: "Language", difficulty: "medium",
     question: "The word 'robot,' coined in a 1920 play, comes from a Czech word meaning...",
-    options: ["Forced labour / drudgery", "Metal man", "Loyal servant", "Thinking machine"],
+    options: [
+      "Forced labour or drudgery",
+      "A man made of metal",
+      "A loyal servant",
+      "An intelligent thinking machine"
+    ],
     answer: 0,
     story: "Playwright Karel Čapek introduced 'robot' in R.U.R., borrowing the Czech **'robota'** — the drudgery or forced labour of a serf (his brother Josef suggested the word). The play's robots are actually artificial biological beings, not metal machines — and, fittingly for a story about exploited labour, they rise up and overthrow humanity."
   },
@@ -1583,10 +1618,10 @@ window.QUESTIONS = [
     category: "Mathematics", difficulty: "medium",
     question: "The number 'googol' (a 1 followed by 100 zeros) was named in the 1930s by...",
     options: [
-      "A mathematician's 9-year-old nephew",
+      "A mathematician's young nephew",
       "The founders of Google",
       "An ancient Greek scholar",
-      "A committee of physicists"
+      "A whole committee of physicists"
     ],
     answer: 0,
     story: "Mathematician Edward Kasner asked his young nephew **Milton Sirotta** to name a huge number; the boy said 'googol.' Kasner also coined 'googolplex' (1 followed by a googol of zeros) — so vast it can't be written out, as there isn't room in the observable universe for the digits. Decades later, a misspelling of 'googol' became the name 'Google.'"
@@ -1627,9 +1662,9 @@ window.QUESTIONS = [
     question: "A Möbius strip is a loop remarkable for having...",
     options: [
       "Only one side and one edge",
-      "Two separate sides",
+      "Two completely separate sides",
       "No edges at all",
-      "Infinite length"
+      "An infinite length"
     ],
     answer: 0,
     story: "Give a paper strip a half-twist and tape the ends: the result has just **one side and one edge**. Trace the middle and you'll return to your start having covered the 'whole' surface without lifting your pen. Cut it down the centre and, surprisingly, it doesn't split in two — it becomes one longer loop. It's a cornerstone of topology, and appears in belts designed to wear evenly."
@@ -1647,10 +1682,10 @@ window.QUESTIONS = [
     category: "Food & Drink", difficulty: "medium",
     question: "Carrots were originally purple and white; the familiar orange carrot was likely popularised by...",
     options: [
-      "Dutch growers (possibly honouring the House of Orange)",
-      "The ancient Romans",
-      "The British Royal Navy",
-      "French monks"
+      "Dutch growers (House of Orange)",
+      "The ancient Roman Empire",
+      "The British Royal Navy's cooks",
+      "Medieval French monastery gardens"
     ],
     answer: 0,
     story: "Early cultivated carrots were mostly purple, yellow and white. Orange ones came to dominate in the **Netherlands** around the 16th–17th centuries. A popular (if debated) tale says Dutch growers favoured orange as a tribute to William of Orange. Whatever the reason, orange carrots — sweeter and rich in beta-carotene — won out and became the global default."
@@ -1659,10 +1694,10 @@ window.QUESTIONS = [
     category: "Food & Drink", difficulty: "medium",
     question: "The Caesar salad is named after...",
     options: [
-      "An Italian restaurateur in Tijuana, Mexico",
-      "Julius Caesar",
+      "An Italian chef in Tijuana, Mexico",
+      "The Roman emperor Gaius Julius Caesar",
       "The Caesars Palace casino",
-      "An Italian town"
+      "A small town in Italy"
     ],
     answer: 0,
     story: "It has nothing to do with the Roman emperor. It was reportedly invented in 1924 by **Caesar Cardini**, an Italian immigrant running a restaurant in Tijuana. As the story goes, on a busy Fourth of July with supplies low, he improvised it tableside. American tourists — many crossing the border to dodge Prohibition — loved it, and it spread north into a global staple."
@@ -1670,7 +1705,12 @@ window.QUESTIONS = [
   {
     category: "Food & Drink", difficulty: "hard",
     question: "In the 1830s, tomato ketchup was briefly sold in the US as...",
-    options: ["A medicine for indigestion", "A wall paint", "A furniture polish", "A dessert topping"],
+    options: [
+      "A medicine for indigestion",
+      "A durable exterior wall paint",
+      "A furniture polish",
+      "A sweet dessert topping"
+    ],
     answer: 0,
     story: "An Ohio doctor claimed tomatoes cured ailments like indigestion, and by the 1830s tomato 'ketchup' was pressed into **pills and sold as patent medicine** — until imitators peddling fakes collapsed the fad. Ketchup itself predates tomatoes: the word traces to an Asian fermented fish sauce ('ke-tsiap'), and early Western versions were made from mushrooms, walnuts or oysters."
   },
@@ -1686,8 +1726,8 @@ window.QUESTIONS = [
     question: "In 18th-century Europe, a single pineapple was such a status symbol that people would...",
     options: [
       "Rent one to display at a party",
-      "Wear it as a hat",
-      "Use it as legal currency",
+      "Wear one as a hat",
+      "Use it as a form of legal currency",
       "Bury it with the dead"
     ],
     answer: 0,
@@ -1722,8 +1762,8 @@ window.QUESTIONS = [
     options: [
       "More other people are present",
       "It's late at night",
-      "They're in a hurry",
-      "The victim is a stranger"
+      "They are in a hurry",
+      "The victim is a total stranger"
     ],
     answer: 0,
     story: "The **more witnesses** to an emergency, the less likely any single one steps in — each assumes someone else will, diffusing responsibility. The idea was spurred by the 1964 murder of Kitty Genovese, sensationally (and inaccurately) reported as 38 neighbours doing nothing. The original story was exaggerated, but decades of experiments confirmed the underlying effect is real."
@@ -1732,8 +1772,8 @@ window.QUESTIONS = [
     category: "Psychology", difficulty: "medium",
     question: "The famous Stanford 'marshmallow test' measured children's ability to...",
     options: [
-      "Delay gratification for a bigger reward",
-      "Share food fairly",
+      "Wait for a bigger reward",
+      "Share their food fairly",
       "Resist peer pressure",
       "Recognise their own reflection"
     ],
@@ -1744,10 +1784,10 @@ window.QUESTIONS = [
     category: "Psychology", difficulty: "hard",
     question: "Pavlov's famous dogs were actually conditioned to salivate at...",
     options: [
-      "Neutral signals like metronomes and buzzers (the 'bell' is largely a myth)",
+      "Metronomes and buzzers, not a bell",
       "Only the sight of food",
       "Their trainer's footsteps",
-      "A ringing bell, exactly as the story goes"
+      "A ringing bell, just as the story says"
     ],
     answer: 0,
     story: "Pavlov showed dogs could learn to link a neutral signal with food and salivate at the signal alone — the basis of **classical conditioning**. Pop culture insists it was a bell, but his lab more often used metronomes, buzzers and lights; the 'bell' may be a mistranslation. His work began as a study of digestion and accidentally launched behavioural psychology."
@@ -1768,10 +1808,10 @@ window.QUESTIONS = [
     category: "Psychology", difficulty: "hard",
     question: "Learning a new word and then suddenly noticing it everywhere is called the...",
     options: [
-      "Baader-Meinhof phenomenon (the frequency illusion)",
-      "Mandela effect",
-      "Déjà vu",
-      "Placebo effect"
+      "The Baader-Meinhof phenomenon",
+      "The internet's 'Mandela effect'",
+      "A case of déjà vu",
+      "The placebo effect"
     ],
     answer: 0,
     story: "You learn a new word or name — and suddenly it's everywhere. This **frequency illusion** is nicknamed the Baader-Meinhof phenomenon, after someone who coincidentally heard that obscure name twice in a day. Nothing in the world has changed; your brain, having just tagged the thing as notable, now notices and remembers each appearance — selective attention and confirmation bias working together."
@@ -1796,9 +1836,9 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "The exquisite Chola bronzes — like the dancing Shiva (Nataraja) — were cast using which technique?",
     options: [
-      "Lost-wax casting (the mould is destroyed to free each piece)",
-      "Iron forging",
-      "Stone carving",
+      "Lost-wax bronze casting",
+      "Hand-hammered iron forging",
+      "Solid stone carving",
       "Gold electroplating"
     ],
     answer: 0,
@@ -1808,9 +1848,9 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "In 2004, Tamil became the first language officially declared a 'Classical Language' of India, recognised for...",
     options: [
-      "A continuous literary tradition spanning over two thousand years",
+      "A 2,000-year-old literary tradition",
       "Having the world's oldest alphabet",
-      "Being India's most spoken language",
+      "Being India's most-spoken language",
       "Being the language of the royal court"
     ],
     answer: 0,
@@ -1834,7 +1874,7 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "In the Tamil epic Silappatikaram, the wronged heroine Kannagi takes revenge on the city of Madurai by...",
     options: [
-      "Burning it down after her husband is wrongly executed",
+      "Burning the whole city down",
       "Raising an army against its king",
       "Flooding it with the sea",
       "Turning its people to stone"
@@ -1846,10 +1886,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "Madurai's Meenakshi Amman Temple is world-famous for its...",
     options: [
-      "Towering gateway towers covered in thousands of colourful sculptures",
-      "Single solid-gold dome",
-      "Underground river",
-      "Giant reclining Buddha"
+      "Towers of thousands of sculptures",
+      "A single dome of solid gold",
+      "A sacred underground river",
+      "A giant reclining golden Buddha statue"
     ],
     answer: 0,
     story: "Its 14 **gopurams** (gateway towers) blaze with an estimated 33,000 brightly painted figures of gods, demons and beasts. Largely rebuilt under the Nayak rulers in the 16th–17th centuries, the complex also holds a 'thousand-pillar' hall and stone pillars that ring with musical notes when struck. It remains one of the most visited temples in India."
@@ -1858,10 +1898,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "Recent excavations at Keeladi, near Madurai, have uncovered evidence of...",
     options: [
-      "An ancient urban Tamil civilisation on the Vaigai river",
-      "A buried Roman fort",
-      "A lost diamond mine",
-      "Dinosaur fossils"
+      "An ancient urban Tamil settlement",
+      "The buried remains of a Roman fort",
+      "A lost ancient diamond mine",
+      "A bed of dinosaur fossils"
     ],
     answer: 0,
     story: "Digs at **Keeladi** have revealed brick buildings, drainage, fine pottery and — crucially — many potsherds scratched with Tamil-Brahmi letters, hinting at widespread literacy. The finds point to a sophisticated Sangam-age settlement, and some samples dated to around the 6th century BCE have fuelled a lively debate that Tamil urban culture is far older than once assumed."
@@ -1870,7 +1910,7 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "Hoards of ancient Roman gold coins keep turning up in Tamil Nadu because...",
     options: [
-      "Rome traded heavily for South Indian pepper, spices and gems",
+      "Rome traded for pepper and spices",
       "The Romans once ruled the region",
       "They are modern forgeries",
       "A Roman fleet was shipwrecked there"
@@ -1882,10 +1922,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "The rock edicts of Emperor Ashoka (3rd century BCE) mention the Cholas and Pandyas of the far south as...",
     options: [
-      "Independent kingdoms lying beyond his empire",
-      "Provinces he directly governed",
-      "Mythical lands",
-      "Enemies he had destroyed"
+      "Independent kingdoms beyond his rule",
+      "Provinces he governed directly himself",
+      "Distant, half-mythical lands",
+      "Enemies he had already destroyed"
     ],
     answer: 0,
     story: "Ashoka ruled most of the subcontinent — but not the deep south. His edicts name the **Cholas, Pandyas, Cheras and others as neighbours** reached by his welfare works, not subjects. These are among the earliest firmly datable references to the Tamil dynasties, confirming they were already well established while the Mauryas ruled the north."
@@ -1894,7 +1934,7 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "E.V. Ramasamy, revered across Tamil Nadu as 'Periyar,' is best known for founding...",
     options: [
-      "The Self-Respect Movement for social equality and rationalism",
+      "The Self-Respect Movement",
       "The first Tamil newspaper",
       "A dynasty of temple builders",
       "India's first cricket league"
@@ -1906,10 +1946,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "Madras State was renamed 'Tamil Nadu' in 1969, after years of agitation sparked partly by...",
     options: [
-      "The attempt to impose Hindi as the sole national language",
-      "A dispute over the capital city",
-      "A new currency",
-      "A boundary war"
+      "The push to impose Hindi nationwide",
+      "A bitter dispute over the capital city",
+      "A change of national currency",
+      "A war over state boundaries"
     ],
     answer: 0,
     story: "Fierce **anti-Hindi agitations**, especially in 1965 when Hindi was set to become the only official language, swept Tamil Nadu — including protests and self-immolations. They helped keep English as a link language and propelled the Dravidian parties to power. In 1969 the state took the name Tamil Nadu, 'the Tamil country.'"
@@ -1932,10 +1972,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "The board game Snakes and Ladders began in India as...",
     options: [
-      "A game teaching morality — virtues lift you up, vices drag you down",
-      "A gambling game for merchants",
+      "A moral game of virtues and vices",
+      "A gambling game played by merchants",
       "A military training exercise",
-      "A royal counting toy"
+      "A royal children's counting toy"
     ],
     answer: 0,
     story: "Known as Moksha Patam, it was a teaching tool: **ladders were virtues** carrying you toward liberation (moksha), **snakes were vices** dropping you back down. It encoded Hindu and Jain ethics into a roll of the dice. British colonials carried it home, quietly stripped out the morality, and it became the children's game — 'Chutes and Ladders' in America."
@@ -1944,9 +1984,9 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "The ancient Indian physician Sushruta (~600 BCE) is often called the 'father of surgery' for describing...",
     options: [
-      "Reconstructive surgery, including rebuilding a nose",
-      "The circulation of blood",
-      "General anaesthesia gas",
+      "Reconstructive surgery, even noses",
+      "The circulation of the blood",
+      "General anaesthesia using ether gas",
       "The germ theory of disease"
     ],
     answer: 0,
@@ -1963,10 +2003,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "The 1757 Battle of Plassey, which let a trading company begin ruling much of India, was won by the British mainly through...",
     options: [
-      "Bribery and betrayal — a key commander switched sides",
-      "Overwhelming numbers",
+      "Bribery; a commander switched sides",
+      "Overwhelming numbers of British troops",
       "Superior naval firepower",
-      "A surprise night attack"
+      "A surprise attack at night"
     ],
     answer: 0,
     story: "Robert Clive of the English East India Company was badly outnumbered by the Nawab of Bengal — so he won not by fighting but by **bribing the Nawab's commander, Mir Jafar, to defect**. The victory handed the Company the riches of Bengal and is widely seen as the first step toward British rule over India."
@@ -1975,10 +2015,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "At its peak in the early 1800s, the British East India Company — a private business — kept a private army of roughly...",
     options: [
-      "260,000 men, about twice the size of Britain's own army",
-      "5,000 men",
-      "25,000 men",
-      "Over a million men"
+      "260,000 — twice Britain's army",
+      "About 5,000 men",
+      "Around 25,000 men",
+      "Well over one million men in total"
     ],
     answer: 0,
     story: "A single **corporation** fielded an army around **260,000 strong** — roughly double the British state's own — and used it to rule tens of millions. Only after the great rebellion of 1857 did the British Crown seize direct control, beginning the Raj. It remains history's starkest example of a company conquering a subcontinent."
@@ -1998,7 +2038,12 @@ window.QUESTIONS = [
   {
     category: "Indian History", difficulty: "medium",
     question: "The Koh-i-Noor diamond in the British Crown Jewels was originally mined in...",
-    options: ["India (the Golconda region)", "South Africa", "Brazil", "Russia"],
+    options: [
+      "India (the Golconda mines)",
+      "South Africa's diamond fields",
+      "The mines of Brazil",
+      "The Ural mountains, Russia"
+    ],
     answer: 0,
     story: "It likely came from the **Golconda** mines of southern India. It passed through Mughal, Persian, Afghan and Sikh hands — the Persian conqueror Nadir Shah is said to have named it 'Koh-i-Noor,' 'Mountain of Light' — before the British took it in 1849 after annexing Punjab. India, Pakistan, Iran and Afghanistan have all since asked for it back."
   },
@@ -2006,10 +2051,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "medium",
     question: "The Constitution of India holds the record as...",
     options: [
-      "The longest written constitution of any country",
+      "The longest written constitution",
       "The shortest national constitution",
       "The world's oldest constitution",
-      "The only entirely unwritten constitution"
+      "The only entirely unwritten one"
     ],
     answer: 0,
     story: "Drafted by a committee chaired by **B.R. Ambedkar** and adopted in 1949, it began with around 395 articles. The original wasn't printed but **hand-written** in flowing calligraphy in Hindi and English, its pages decorated with artwork depicting scenes from Indian history. Those signed originals are preserved in helium-filled cases in Parliament."
@@ -2018,10 +2063,10 @@ window.QUESTIONS = [
     category: "Indian History", difficulty: "hard",
     question: "The ruins of Hampi (in Karnataka) were the capital of the Vijayanagara Empire, which in the 1500s was...",
     options: [
-      "One of the largest and richest cities in the world",
-      "A tiny fishing village",
-      "A remote Mughal fort",
-      "A British trading post"
+      "One of the world's richest cities",
+      "A tiny fishing village on the coast",
+      "A remote Mughal hill fort",
+      "A small British trading post"
     ],
     answer: 0,
     story: "Persian and Portuguese visitors were stunned by **Vijayanagara** — markets heaped with gems, possibly the second-largest city on Earth at the time. It was sacked in 1565 and abandoned. Today Hampi's boulder-strewn ruins — the famous stone chariot, and pillars at the Vittala temple that chime like instruments — form a UNESCO World Heritage Site."
@@ -2031,8 +2076,8 @@ window.QUESTIONS = [
     question: "In 1930, Gandhi led the famous 386-km Salt March to the sea to protest against...",
     options: [
       "The British salt tax and monopoly",
-      "An income tax",
-      "Textile imports",
+      "A steep new income tax",
+      "A ban on all foreign textile imports",
       "The partition of Bengal"
     ],
     answer: 0,
@@ -2051,8 +2096,8 @@ window.QUESTIONS = [
     category: "Technology", difficulty: "medium",
     question: "IBM engineer David Bradley created the 'Ctrl+Alt+Delete' key combo originally...",
     options: [
-      "As a quick reboot for programmers, never meant for users",
-      "As a security login feature",
+      "A quick reboot for programmers",
+      "As a secure login feature for Windows",
       "Completely by accident",
       "For an early video game"
     ],
@@ -2070,10 +2115,10 @@ window.QUESTIONS = [
     category: "Technology", difficulty: "medium",
     question: "IBM's first commercial hard drive (1956) stored about 5 megabytes and was the size of...",
     options: [
-      "Two refrigerators — and weighed over a ton",
-      "A shoebox",
-      "A paperback book",
-      "A wristwatch"
+      "Two fridges, over a ton",
+      "A small cardboard shoebox",
+      "A thick paperback book",
+      "A men's wristwatch"
     ],
     answer: 0,
     story: "The IBM RAMAC 305's disk unit was a beast: 50 spinning platters two feet across, weighing over a **ton**, holding about 5 MB — less than a single phone photo today. It was too big to buy outright, so firms rented it for thousands of dollars a month and shipped it by cargo plane. A fingernail-sized card now holds hundreds of thousands of times more."
@@ -2103,10 +2148,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "medium",
     question: "Naked mole-rats fascinate cancer researchers because they...",
     options: [
-      "Almost never get cancer and can live over 30 years",
-      "Glow in ultraviolet light",
-      "Have no DNA in their cells",
-      "Never need to sleep"
+      "Rarely get cancer and live 30+ years",
+      "They glow brightly in ultraviolet light",
+      "Their cells contain no DNA at all",
+      "They never need to sleep"
     ],
     answer: 0,
     story: "These wrinkly, nearly blind rodents live 30+ years — astonishing for their size — and **almost never develop cancer**. Their cells stop dividing when crowded, and they make a gluey form of a molecule (hyaluronan) that seems to block tumours. They also barely feel certain pain and can survive about 18 minutes with no oxygen at all. Biologists mine them for the secrets of long, healthy life."
@@ -2115,10 +2160,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "medium",
     question: "Many forest trees quietly share water, nutrients and even warning signals through...",
     options: [
-      "Underground fungal networks linking their roots",
-      "The wind carrying scents",
+      "Underground fungal networks",
+      "The wind, carrying their scents",
       "Physical contact between branches",
-      "Birds moving between them"
+      "Birds moving from tree to tree"
     ],
     answer: 0,
     story: "Beneath the forest floor, fungi weave threads that connect tree roots into a web nicknamed the **'wood wide web.'** Through these links trees trade sugars and nutrients, big 'mother trees' can feed their seedlings, and some even pass chemical alarms about insect attacks. The fungi take a cut of sugar in return. A forest behaves less like lone individuals than a connected community."
@@ -2134,10 +2179,10 @@ window.QUESTIONS = [
     category: "Biology", difficulty: "hard",
     question: "After a pregnancy, a mother often carries living cells from her child...",
     options: [
-      "In her body for decades — sometimes even in her brain",
+      "For decades, even in her brain",
       "For only a few days",
-      "Never — cells can't cross the placenta",
-      "Only within the womb lining"
+      "Never; cells can't cross the placenta",
+      "Only within the womb's lining"
     ],
     answer: 0,
     story: "During pregnancy, fetal cells slip across the placenta and can linger in the mother for **decades** — a phenomenon called microchimerism. They've been found in mothers' blood, healed wounds, and even their brains, where some evidence hints they may help repair tissue. Many mothers are, quite literally, part their children at the cellular level, long after birth."
@@ -2148,9 +2193,9 @@ window.QUESTIONS = [
     category: "Logic & Puzzles", difficulty: "medium",
     question: "In the 'prisoner's dilemma,' each of two partners does best by betraying the other — yet if both betray...",
     options: [
-      "They both end up worse off than if they'd stayed silent",
-      "They both go free",
-      "Nothing changes",
+      "Both fare worse than if silent",
+      "They are both immediately freed",
+      "Nothing at all changes",
       "Exactly one of them wins"
     ],
     answer: 0,
@@ -2172,10 +2217,10 @@ window.QUESTIONS = [
     category: "Logic & Puzzles", difficulty: "hard",
     question: "A test for a rare disease is '99% accurate.' You test positive. The chance you truly have the disease might be...",
     options: [
-      "Surprisingly low — often well under 50%",
-      "Exactly 99%",
-      "A certain 100%",
-      "Exactly half"
+      "Surprisingly low — under 50%",
+      "Exactly 99%, as the test claims",
+      "A near-certain 100%",
+      "Exactly fifty-fifty"
     ],
     answer: 0,
     story: "If only 1 in 10,000 people has the disease, then in any large group the **false positives massively outnumber the true ones** — so your positive result might mean well under a 1% chance you're actually sick. Ignoring how rare something is (the 'base rate') fools even doctors. That's why positive screens for rare conditions are confirmed with a second, different test."
@@ -2184,9 +2229,9 @@ window.QUESTIONS = [
     category: "Logic & Puzzles", difficulty: "hard",
     question: "A judge says a prisoner will hang at noon one weekday next week, and the day will be a total 'surprise.' The prisoner reasons he can't be hanged — yet...",
     options: [
-      "He's hanged Wednesday, genuinely surprised",
+      "Hanged Wednesday, truly surprised",
       "He's set free on a technicality",
-      "The judge admits he was bluffing",
+      "The judge admits he was only bluffing",
       "He escapes during the confusion"
     ],
     answer: 0,
@@ -2198,10 +2243,10 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "hard",
     question: "The tune of the US national anthem 'The Star-Spangled Banner' began life as...",
     options: [
-      "A British gentlemen's-club drinking song",
-      "A church hymn",
+      "A British club drinking song",
+      "A solemn church hymn",
       "A military bugle call",
-      "A slave spiritual"
+      "An old African-American spiritual"
     ],
     answer: 0,
     story: "The melody comes from 'To Anacreon in Heaven,' the song of an 18th-century London music-and-**drinking** club named after a Greek poet of wine and love. Francis Scott Key set his 1814 poem about the flag over Fort McHenry to that well-known tune. So America's famously hard-to-sing anthem started as a boozy English club song."
@@ -2230,8 +2275,8 @@ window.QUESTIONS = [
     question: "In 1962, Decca Records rejected the Beatles, reportedly telling their manager that...",
     options: [
       "'Guitar groups are on the way out'",
-      "'They simply can't sing'",
-      "'Come back in ten years'",
+      "'They simply cannot sing'",
+      "'Come back and see us in ten years'",
       "'Rock and roll is finished'"
     ],
     answer: 0,
@@ -2241,7 +2286,7 @@ window.QUESTIONS = [
     category: "Pop Culture", difficulty: "hard",
     question: "The popular story that Netflix was founded over a $40 late fee for renting 'Apollo 13' is...",
     options: [
-      "A tidy myth its co-founder says isn't really true",
+      "A myth, its co-founder admits",
       "Fully documented fact",
       "A scene from a movie",
       "Completely made up by journalists"
@@ -2255,10 +2300,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "medium",
     question: "When Dmitri Mendeleev published his periodic table in 1869, its great triumph was that it...",
     options: [
-      "Predicted the properties of elements not yet discovered",
-      "Listed every element then known",
-      "Was simply the first such table",
-      "Won him a Nobel Prize"
+      "Predicted still-undiscovered elements",
+      "It listed every element known at the time",
+      "It was simply the first such table",
+      "It won him a Nobel Prize"
     ],
     answer: 0,
     story: "Mendeleev left **gaps** for undiscovered elements and boldly predicted their properties — even densities and melting points. When gallium, scandium and germanium turned up and matched his forecasts almost exactly, chemists were astonished, and the table was vindicated. Legend says the layout came to him in a dream, though he'd wrestled with it for years."
@@ -2267,10 +2312,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "hard",
     question: "The element phosphorus was discovered in 1669 by an alchemist boiling down large quantities of...",
     options: [
-      "Human urine (while hunting for gold)",
-      "Seawater",
-      "Coal tar",
-      "Fresh blood"
+      "Human urine, seeking gold",
+      "Evaporated barrels of seawater",
+      "Sticky black coal tar",
+      "Fresh animal blood"
     ],
     answer: 0,
     story: "German alchemist Hennig Brand, sure the golden colour of **urine** hinted at hidden gold, boiled and distilled vat after vat of it. He found no gold — but a waxy substance that glowed in the dark and burst into flame: phosphorus, the first element discovered by a named person. Its name means 'light-bearer,' and chemists sourced it from urine for over a century."
@@ -2286,10 +2331,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "easy",
     question: "Water is unusual because, unlike almost every other substance, it...",
     options: [
-      "Expands when it freezes, so its solid form floats",
-      "Contracts sharply when frozen",
-      "Cannot be frozen at all",
-      "Has no solid state"
+      "Expands as it freezes, so ice floats",
+      "It shrinks sharply when it freezes solid",
+      "It cannot be frozen at all",
+      "It has no true solid state"
     ],
     answer: 0,
     story: "Most liquids grow denser as they solidify, so the solid sinks. Water does the opposite: freezing locks its molecules into an open lattice that takes up **more** space, so ice floats. This quirk helps life survive winter — ponds and lakes freeze from the top down, forming an insulating lid that keeps the water below liquid for the fish."
@@ -2298,10 +2343,10 @@ window.QUESTIONS = [
     category: "Chemistry", difficulty: "hard",
     question: "Vantablack, one of the darkest substances ever made (absorbing over 99.9% of light), sparked an art feud because...",
     options: [
-      "One artist secured exclusive rights to use it",
+      "One artist won exclusive rights",
       "It turned out to be highly toxic",
       "A sample was famously stolen",
-      "It faded to grey within days"
+      "It faded to dull grey within days"
     ],
     answer: 0,
     story: "Vantablack is a forest of microscopic carbon nanotubes so absorbent that a 3D object coated in it looks like a flat black void. When artist Anish Kapoor obtained **exclusive artistic rights**, other artists were furious. In protest, Stuart Semple created the 'world's pinkest pink' and banned Kapoor from buying it — kicking off a gleeful, spiteful pigment war."
@@ -2312,7 +2357,7 @@ window.QUESTIONS = [
     category: "History", difficulty: "medium",
     question: "Mansa Musa of Mali, often called the richest person in history, disrupted whole economies on his 1324 pilgrimage by...",
     options: [
-      "Giving away so much gold that he crashed its value in Egypt",
+      "Giving away gold and crashing its price",
       "Buying up every ship on the Nile",
       "Hoarding the region's entire salt supply",
       "Printing vast amounts of money"
@@ -2324,10 +2369,10 @@ window.QUESTIONS = [
     category: "History", difficulty: "hard",
     question: "In October 1582, ten calendar dates simply never happened across Catholic Europe because of...",
     options: [
-      "The switch from the Julian to the Gregorian calendar",
+      "The switch to the Gregorian calendar",
       "A massive clerical error",
-      "A war that halted record-keeping",
-      "An outbreak of plague"
+      "A long war that halted all record-keeping",
+      "A sudden outbreak of plague"
     ],
     answer: 0,
     story: "The old Julian calendar had drifted about 10 days out of step with the seasons. To fix it, Pope Gregory XIII decreed that **Thursday 4 October 1582 would be followed by Friday 15 October** — erasing ten days. Countries switched at different times (Britain waited until 1752, deleting 11 days), causing confusion in dating history and, by legend, protests from people who felt cheated of days."
@@ -2348,7 +2393,7 @@ window.QUESTIONS = [
     category: "History", difficulty: "medium",
     question: "The mighty Swedish warship Vasa sank in 1628...",
     options: [
-      "Less than a mile into its very first voyage",
+      "On its very first voyage",
       "In a fierce sea battle",
       "After 50 years of service",
       "While anchored in a storm"
@@ -2360,9 +2405,9 @@ window.QUESTIONS = [
     category: "History", difficulty: "hard",
     question: "China's first emperor, Qin Shi Huang — buried with the Terracotta Army — is thought to have died from...",
     options: [
-      "Mercury pills he took hoping to become immortal",
-      "A wound from battle",
-      "Poison slipped by rivals",
+      "Mercury 'immortality' pills",
+      "A wound taken in battle",
+      "Poison slipped to him by rivals",
       "Simple old age"
     ],
     answer: 0,
@@ -2389,8 +2434,8 @@ window.QUESTIONS = [
     question: "The first widely used set of emoji was designed in 1999 by Shigetaka Kurita for...",
     options: [
       "A Japanese mobile phone network",
-      "Apple's first iPhone",
-      "A Nintendo game",
+      "Apple, for the first iPhone launch",
+      "An early Nintendo game",
       "A greeting-card company"
     ],
     answer: 0,
@@ -2400,10 +2445,10 @@ window.QUESTIONS = [
     category: "Internet", difficulty: "medium",
     question: "In 2005, a British student paid his university tuition by selling...",
     options: [
-      "A million pixels of webpage ad space at $1 each",
-      "A single viral video",
-      "Custom ringtones",
-      "Handmade NFTs"
+      "A million pixels at $1 each",
+      "A single, hugely viral video",
+      "Custom phone ringtones",
+      "Handmade digital NFTs"
     ],
     answer: 0,
     story: "21-year-old Alex Tew built 'The Million Dollar Homepage' — a grid of 1,000,000 pixels sold at **$1 apiece** to advertisers, who placed tiny clickable logos. The gimmick went viral and earned him about $1,000,000 in months. Many linked sites have since died, leaving the page a frozen time-capsule of the mid-2000s internet."
@@ -2433,10 +2478,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "medium",
     question: "The workers who built the Egyptian pyramids were...",
     options: [
-      "Paid labourers, often fed bread and beer",
-      "Foreign slaves driven by whips",
-      "Convicted criminals",
-      "Prisoners of war only"
+      "Paid labourers fed bread and beer",
+      "Foreign slaves driven on by whips, in chains",
+      "Gangs of convicted criminals",
+      "Captured prisoners of war"
     ],
     answer: 0,
     story: "The whip-driven-slave image is wrong. Archaeology — a workers' village with bakeries and breweries, and honoured builders' tombs beside the pyramids — shows they were skilled, **paid** crews, fed rations including bread and beer, some seasonal farmers working during the Nile flood. They were buried with dignity near the pharaohs they served."
@@ -2445,10 +2490,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "hard",
     question: "The first labour strike recorded in history took place in Egypt around 1150 BCE, when...",
     options: [
-      "Royal tomb-builders downed tools over late food rations",
-      "Farmers refused to plant crops",
-      "Soldiers mutinied over pay",
-      "Scribes stopped writing"
+      "Tomb-builders struck over late pay",
+      "Farmers refused to plant the fields",
+      "Soldiers mutinied over their wages",
+      "Temple scribes downed their pens"
     ],
     answer: 0,
     story: "Under Pharaoh Ramesses III, the skilled artisans building royal tombs at **Deir el-Medina** didn't receive their grain rations on time — so they stopped work and staged sit-ins at temples. It's the first documented strike in history, recorded on surviving papyrus. Even 3,000 years ago, workers understood the power of withholding their labour."
@@ -2457,8 +2502,8 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "medium",
     question: "The ~3,750-year-old Code of Hammurabi is best known for establishing the principle of...",
     options: [
-      "'An eye for an eye' (proportional retaliation)",
-      "Trial by a jury of peers",
+      "'An eye for an eye' justice",
+      "Trial by a jury of one's peers",
       "Innocent until proven guilty",
       "The right to remain silent"
     ],
@@ -2469,10 +2514,10 @@ window.QUESTIONS = [
     category: "Ancient History", difficulty: "hard",
     question: "The oldest known written melody, preserved on a clay tablet, is about 3,400 years old and comes from...",
     options: [
-      "The ancient city of Ugarit (in modern Syria)",
-      "Classical Athens",
-      "Old Kingdom Egypt",
-      "Imperial Rome"
+      "The Bronze Age city of Ugarit",
+      "Classical Athens, in Greece",
+      "Old Kingdom Egypt, age of pyramids",
+      "the early Roman Republic"
     ],
     answer: 0,
     story: "The 'Hurrian Hymn No. 6,' from **Ugarit**, is a religious song written in cuneiform with instructions for a lyre — the oldest substantially complete piece of notated music ever found. Scholars disagree on exactly how to read it, so modern reconstructions vary, but any version lets you hear a tune written down over three thousand years ago."
@@ -2483,8 +2528,8 @@ window.QUESTIONS = [
     category: "Space", difficulty: "medium",
     question: "The number of stars in the observable universe is estimated to be...",
     options: [
-      "Greater than all the grains of sand on Earth",
-      "About equal to Earth's grains of sand",
+      "More than all the sand grains on Earth",
+      "Roughly equal to all of Earth's sand grains",
       "Far fewer than Earth's sand grains",
       "Exactly one trillion"
     ],
@@ -2495,8 +2540,8 @@ window.QUESTIONS = [
     category: "Space", difficulty: "medium",
     question: "The Moon is slowly moving away from Earth at about...",
     options: [
-      "3.8 cm a year — roughly how fast fingernails grow",
-      "3.8 metres a year",
+      "About 3.8 cm a year",
+      "About 3.8 metres a year",
       "It isn't moving; it's fixed",
       "It's actually getting closer"
     ],
@@ -2507,9 +2552,9 @@ window.QUESTIONS = [
     category: "Space", difficulty: "medium",
     question: "Since its discovery in 1930, the dwarf planet Pluto has...",
     options: [
-      "Not yet completed a single orbit of the Sun",
+      "Not yet finished a single orbit",
       "Orbited the Sun three times",
-      "Drifted out of the solar system",
+      "Drifted right out of the solar system",
       "Stopped moving entirely"
     ],
     answer: 0,
@@ -2526,10 +2571,10 @@ window.QUESTIONS = [
     category: "Space", difficulty: "medium",
     question: "Uranus is unusual among the planets because it...",
     options: [
-      "Spins almost completely on its side (tilted ~98°)",
+      "Spins on its side, tilted ~98°",
       "Has no moons at all",
-      "Doesn't spin",
-      "Orbits the Sun backwards"
+      "Doesn't spin at all",
+      "Orbits the Sun completely backwards"
     ],
     answer: 0,
     story: "Most planets spin roughly upright like tops; Uranus is tipped nearly **98°**, essentially rolling around the Sun on its side — probably knocked over by a giant ancient collision. This gives each pole about 42 years of nonstop sunlight, then 42 years of darkness. Oddly, it also has the coldest atmosphere in the solar system — colder even than Neptune, which lies farther out."
@@ -2540,10 +2585,10 @@ window.QUESTIONS = [
     category: "Finance", difficulty: "hard",
     question: "After losing a fortune in the 1720 South Sea Bubble, Isaac Newton reportedly lamented that he could...",
     options: [
-      "'Calculate the motions of the heavenly bodies, but not the madness of people'",
-      "'Never trust a banker again'",
-      "'See the future written in the stars'",
-      "'Not even add up his own losses'"
+      "He couldn't gauge 'the madness of people'",
+      "That he'd never trust a single banker again",
+      "That the future was written in the stars",
+      "That he couldn't add up his own losses"
     ],
     answer: 0,
     story: "Newton invested in the South Sea Company, sold early at a neat profit — then, watching the stock keep soaring, piled back in near the peak. When the bubble burst he lost around £20,000, a fortune then. He's said to have remarked he could **calculate the heavens but not the madness of people**. Even a genius fell for the mania."
@@ -2560,9 +2605,9 @@ window.QUESTIONS = [
     question: "The world's first cash machine (1967, London) reportedly took its inspiration from...",
     options: [
       "A chocolate-bar vending machine",
-      "A bank robbery",
-      "An early computer game",
-      "A jammed safe"
+      "A daring daylight bank robbery downtown",
+      "An early arcade computer game",
+      "A jammed bank vault safe"
     ],
     answer: 0,
     story: "Inventor John Shepherd-Barron said the idea struck after he missed his bank's closing time: a **vending machine, but for cash**. His first ATM at Barclays used special vouchers rather than plastic cards. He also devised the PIN — and wanted six digits, but his wife said she could only remember four, which is why most PINs are four digits to this day."
@@ -2579,8 +2624,8 @@ window.QUESTIONS = [
     question: "The first widely used charge card, Diners Club (1950), was supposedly inspired when its founder...",
     options: [
       "Forgot his wallet at a restaurant",
-      "Won a large bet",
-      "Lost his cash gambling",
+      "Won a large wager against a friend",
+      "Lost all his cash gambling",
       "Was refused a bank loan"
     ],
     answer: 0,
@@ -2606,9 +2651,9 @@ window.QUESTIONS = [
     category: "Politics", difficulty: "medium",
     question: "Nepal is the only country in the world whose national flag is...",
     options: [
-      "Not a rectangle — it's two stacked pennants",
-      "All a single colour",
-      "Perfectly circular",
+      "Two stacked pennant shapes",
+      "One single, solid block of colour",
+      "A perfect circle shape",
       "A perfect square"
     ],
     answer: 0,
@@ -2625,10 +2670,10 @@ window.QUESTIONS = [
     category: "Politics", difficulty: "hard",
     question: "The tiny Pacific nation of Nauru was briefly among the richest countries per person thanks to...",
     options: [
-      "Phosphate rock formed largely from bird droppings",
-      "Offshore oil",
-      "Luxury tourism",
-      "Gold deposits"
+      "Phosphate from bird droppings",
+      "Rich offshore oil and gas reserves",
+      "High-end luxury tourism",
+      "Deep gold deposits"
     ],
     answer: 0,
     story: "Nauru sat atop rich **phosphate** — built up over ages largely from seabird droppings — a prized fertiliser. Mining made citizens extravagantly wealthy in the 1970s–80s. But it gutted the island's interior into a barren moonscape, the fortune was lost on bad investments, and Nauru collapsed economically: a stark warning about depending on one finite resource."
@@ -2638,7 +2683,12 @@ window.QUESTIONS = [
   {
     category: "General Knowledge", difficulty: "medium",
     question: "Bubble wrap was originally invented in 1957 to be sold as...",
-    options: ["Textured 3D wallpaper", "Packing material", "A pool float", "Greenhouse glass"],
+    options: [
+      "Textured 3D wallpaper",
+      "Everyday packing material",
+      "An inflatable pool float",
+      "Greenhouse insulation panels"
+    ],
     answer: 0,
     story: "Two engineers sealed two shower curtains together, trapping air bubbles, hoping to sell trendy **3D wallpaper**. It flopped. Their next pitch — greenhouse insulation — flopped too. Only when IBM needed to protect a new computer in transit did bubble wrap find its true calling as packaging. Popping it, of course, became a bonus feature."
   },
@@ -2660,9 +2710,9 @@ window.QUESTIONS = [
     category: "General Knowledge", difficulty: "easy",
     question: "The popular claim that humans use only 10% of their brains is...",
     options: [
-      "A complete myth — we use virtually all of it",
+      "A myth — we use nearly all of it",
       "Roughly accurate",
-      "True only while we sleep",
+      "It's true only while we are asleep",
       "True for most adults"
     ],
     answer: 0,
@@ -2672,10 +2722,10 @@ window.QUESTIONS = [
     category: "General Knowledge", difficulty: "hard",
     question: "Over the long term, a single day on Earth is very gradually...",
     options: [
-      "Getting longer, as the planet's spin slows",
-      "Getting shorter",
-      "Staying exactly 24 hours forever",
-      "Reversing direction"
+      "Getting longer as Earth spins slower",
+      "Getting steadily shorter",
+      "Locked at exactly 24 hours for all time",
+      "Slowly reversing direction"
     ],
     answer: 0,
     story: "The Moon's tidal pull is slowly braking Earth's rotation, stretching the day by roughly **1.7 milliseconds per century**. Growth bands in ancient fossil corals confirm it: hundreds of millions of years ago, a year held around 400 shorter days. It's also why timekeepers occasionally insert a 'leap second' to keep clocks matched to the wobbling Earth."
@@ -2686,10 +2736,10 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "Around the year 1900, electric cars...",
     options: [
-      "Were popular and briefly rivalled or outsold petrol cars",
+      "Were popular, rivalling petrol cars",
       "Did not yet exist",
       "Were banned in cities",
-      "Were only children's toys"
+      "Were sold only as expensive children's toys"
     ],
     answer: 0,
     story: "At the dawn of the automobile, electric cars were clean, quiet and easy to start (no hand-crank), and around 1900 they were **among the best-selling cars in America**, loved for city driving. Cheap oil, the electric starter and Ford's affordable, long-range Model T pushed them aside. Over a century later, EVs are finally staging a comeback — having nearly been the default the first time around."
@@ -2698,7 +2748,7 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "Airline food often tastes bland largely because...",
     options: [
-      "Cabin pressure and dry air dull your senses of taste and smell",
+      "Low cabin pressure dulls taste",
       "Airlines always use frozen ingredients",
       "Radiation at altitude affects food",
       "It's cooked days in advance"
@@ -2710,9 +2760,9 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "medium",
     question: "Planes dim the cabin lights for night takeoffs and landings mainly to...",
     options: [
-      "Pre-adjust passengers' eyes in case of an emergency evacuation",
-      "Save fuel",
-      "Help passengers fall asleep",
+      "Pre-adjust eyes for evacuation",
+      "To save fuel",
+      "Help passengers drift off to sleep",
       "Reduce glare for the pilots"
     ],
     answer: 0,
@@ -2722,8 +2772,8 @@ window.QUESTIONS = [
     category: "Transportation", difficulty: "hard",
     question: "The world's first traffic light, installed near London's Parliament in 1868, failed because it...",
     options: [
-      "Exploded, reportedly injuring the policeman operating it",
-      "Was too tall for drivers to see",
+      "Exploded, injuring its operator",
+      "Was mounted too high for drivers to see",
       "Caused a massive traffic jam",
       "Was stolen within a week"
     ],
@@ -2742,7 +2792,12 @@ window.QUESTIONS = [
   {
     category: "Language", difficulty: "medium",
     question: "The word 'clue' comes from 'clew,' which originally meant...",
-    options: ["A ball of thread", "A footprint", "A whisper", "A torn map"],
+    options: [
+      "A ball of thread",
+      "A muddy footprint",
+      "A faint whisper",
+      "A torn old map"
+    ],
     answer: 0,
     story: "A 'clew' was a **ball of yarn** — evoking the Greek myth in which Theseus unwound thread through the labyrinth so he could retrace his way out after killing the Minotaur. To 'follow a clew' meant tracing that thread toward a solution. The spelling softened to 'clue,' and it came to mean any hint that guides you through a mystery."
   },
@@ -2750,8 +2805,8 @@ window.QUESTIONS = [
     category: "Language", difficulty: "medium",
     question: "The word 'boycott' comes from...",
     options: [
-      "The name of a hated land agent, Captain Boycott",
-      "An old French verb for 'refuse'",
+      "A hated land agent, Captain Boycott",
+      "An old French verb meaning 'to refuse'",
       "A medieval trade law",
       "A famous merchant ship"
     ],
@@ -2771,7 +2826,7 @@ window.QUESTIONS = [
     category: "Mathematics", difficulty: "hard",
     question: "Around 1637, Pierre de Fermat scribbled that he had a marvellous proof of a theorem, but that...",
     options: [
-      "The margin was too small to contain it",
+      "The margin was too small for it",
       "He had forgotten the details",
       "He would publish it the next year",
       "Only God could understand it"
@@ -2790,10 +2845,10 @@ window.QUESTIONS = [
     category: "Mathematics", difficulty: "hard",
     question: "The Four Color Theorem (any map needs only four colours) was historic in 1976 for being...",
     options: [
-      "The first major theorem proved with the help of a computer",
-      "Proven unprovable",
-      "Solved by a schoolchild",
-      "Disproven after 100 years"
+      "First proved using a computer",
+      "Proven to be unprovable",
+      "Solved by a young schoolchild",
+      "Disproven after a full 100 years"
     ],
     answer: 0,
     story: "The claim is simple — four colours always suffice so no two bordering regions match — but the proof required checking an enormous number of cases, so many that Appel and Haken used a **computer** to grind through them. It was the first celebrated theorem whose proof no human could fully check by hand, sparking a lasting debate: if nobody can verify every step, is it truly proved?"
@@ -2811,10 +2866,10 @@ window.QUESTIONS = [
     category: "Food & Drink", difficulty: "medium",
     question: "When Coca-Cola first went on sale in the 1880s, it contained...",
     options: [
-      "A small amount of cocaine, from coca-leaf extract",
+      "A little cocaine, from coca leaves",
       "Pure caffeine and nothing else",
-      "A splash of alcohol",
-      "Morphine"
+      "A generous splash of alcohol",
+      "A small medicinal dose of morphine"
     ],
     answer: 0,
     story: "Invented by pharmacist John Pemberton as a 'medicinal' tonic, early Coca-Cola drew a trace of **cocaine** from coca leaves, plus caffeine from the kola nut — hence the name. The amount was small but real. Amid growing concern, the active cocaine was removed by around 1903; the company still uses specially processed, cocaine-free coca leaves for flavour today."
@@ -2822,7 +2877,12 @@ window.QUESTIONS = [
   {
     category: "Food & Drink", difficulty: "medium",
     question: "The croissant, an icon of French bakeries, actually originated in...",
-    options: ["Austria (as the 'kipferl')", "Italy", "Turkey", "Ancient Egypt"],
+    options: [
+      "Austria, as the 'kipferl'",
+      "The bakeries of Renaissance Italy",
+      "The Ottoman Empire",
+      "Ancient Egypt"
+    ],
     answer: 0,
     story: "The crescent-shaped **'kipferl'** was eaten in Austria for centuries before an Austrian entrepreneur brought Viennese baking to Paris in the 1800s. The French reworked it with buttery, laminated puff-style dough to create the flaky croissant we love. A famous legend ties the crescent to a victory over the Ottomans — probably invented — but the Austrian roots are real."
   },
@@ -2830,10 +2890,10 @@ window.QUESTIONS = [
     category: "Food & Drink", difficulty: "hard",
     question: "Worcestershire sauce was reportedly discovered when its makers...",
     options: [
-      "Left a 'failed,' too-strong batch to age in a barrel for months",
+      "Aged a 'failed' batch for months",
       "Accidentally spilled two sauces together",
       "Burned a pot of stew",
-      "Imported it and relabelled it"
+      "Imported it and just relabelled it"
     ],
     answer: 0,
     story: "The tale goes that chemists Lea and Perrins mixed a batch in the 1830s, found it unbearably harsh, and abandoned the barrels in a cellar. Rediscovering them much later, they tasted the **aged** sauce and found it had mellowed into something wonderful. Descended from Roman and Indian fish sauces, the anchovy-laced condiment went global — its recipe still partly secret."
@@ -2842,10 +2902,10 @@ window.QUESTIONS = [
     category: "Food & Drink", difficulty: "hard",
     question: "Vanilla is among the priciest spices largely because each flower must be...",
     options: [
-      "Hand-pollinated — a method devised by a 12-year-old",
-      "Aged underground for 50 years",
+      "Hand-pollinated, flower by flower",
+      "Aged underground for a full fifty years",
       "Harvested only at midnight",
-      "Grown at high altitude"
+      "Grown high up in the mountains"
     ],
     answer: 0,
     story: "Vanilla comes from an orchid whose blooms last less than a day and, outside its native Mexico, has no natural pollinator. In 1841, a 12-year-old enslaved boy named Edmond Albius on Réunion Island invented a quick **hand-pollination** trick with a sliver of bamboo — still used worldwide. His method made global vanilla farming possible, though he died poor and largely uncredited."
@@ -2856,10 +2916,10 @@ window.QUESTIONS = [
     category: "Psychology", difficulty: "medium",
     question: "In Stanley Milgram's famous 1961 experiment, ordinary people proved willing to...",
     options: [
-      "Deliver what they believed were dangerous shocks to a stranger, when ordered to",
+      "Give dangerous shocks when ordered to",
       "Cheat on a simple test",
       "Steal small sums of money",
-      "Walk past someone in distress"
+      "Walk right past someone in clear distress"
     ],
     answer: 0,
     story: "Told by a calm experimenter to give ever-stronger 'shocks' to a person (actually an actor) for wrong answers, about **65% of participants went all the way to a potentially lethal 450 volts** despite hearing screams — simply because an authority urged them on. Staged after the Nazi trials, it probed how ordinary people commit atrocities under orders. Its ethics are debated, but the core finding unsettles to this day."
@@ -2868,10 +2928,10 @@ window.QUESTIONS = [
     category: "Psychology", difficulty: "medium",
     question: "The 'nocebo effect' is the placebo's dark twin, in which...",
     options: [
-      "Expecting harm can trigger real physical symptoms",
-      "A sugar pill cures any disease",
+      "Expecting harm causes real symptoms",
+      "A single sugar pill cures any disease",
       "Patients feel nothing at all",
-      "Only doctors are affected"
+      "Only doctors are ever affected"
     ],
     answer: 0,
     story: "A placebo can genuinely make you feel better because you expect it to. The **nocebo** effect runs the other way: expect side effects or harm, and you can develop real, measurable symptoms from a totally inert substance. In drug trials, patients on sugar pills sometimes report the exact side effects listed for the real drug. Belief alone can heal — or hurt."
@@ -2880,9 +2940,9 @@ window.QUESTIONS = [
     category: "Psychology", difficulty: "hard",
     question: "The 'Zeigarnik effect' is our tendency to...",
     options: [
-      "Remember unfinished tasks better than completed ones",
+      "Recall unfinished tasks best",
       "Forget names the instant we hear them",
-      "Recall our very earliest memory vividly",
+      "Recall our earliest memory vividly",
       "Unconsciously copy others' posture"
     ],
     answer: 0,
